@@ -1,0 +1,257 @@
+"001","Afghanistan",NULL,NULL
+"002","Akrotiri",NULL,NULL
+"003","Albania",NULL,NULL
+"004","Algeria",NULL,NULL
+"005","American Samoa",NULL,NULL
+"006","Andorra",NULL,NULL
+"007","Angola",NULL,NULL
+"008","Anguilla",NULL,NULL
+"009","Antarctica",NULL,NULL
+"010","Antigua and Barbuda",NULL,NULL
+"011","Argentina",NULL,NULL
+"012","Armenia",NULL,NULL
+"013","Aruba",NULL,NULL
+"014","Ashmore and Cartier Islands",NULL,NULL
+"015","Australia",NULL,NULL
+"016","Austria",NULL,NULL
+"017","Azerbaijan",NULL,NULL
+"018","Bahamas"," The",NULL
+"019","Bahrain",NULL,NULL
+"020","Bangladesh",NULL,NULL
+"021","Barbados",NULL,NULL
+"022","Bassas da India",NULL,NULL
+"023","Belarus",NULL,NULL
+"024","Belgium",NULL,NULL
+"025","Belize",NULL,NULL
+"026","Benin",NULL,NULL
+"027","Bermuda",NULL,NULL
+"028","Bhutan",NULL,NULL
+"029","Bolivia",NULL,NULL
+"030","Bosnia and Herzegovina",NULL,NULL
+"031","Botswana",NULL,NULL
+"032","Bouvet Island",NULL,NULL
+"033","Brazil",NULL,NULL
+"034","British Indian Ocean Territory",NULL,NULL
+"035","British Virgin Islands",NULL,NULL
+"036","Brunei",NULL,NULL
+"037","Bulgaria",NULL,NULL
+"038","Burkina Faso",NULL,NULL
+"039","Burma",NULL,NULL
+"040","Burundi",NULL,NULL
+"041","Cambodia",NULL,NULL
+"042","Cameroon",NULL,NULL
+"043","Canada",NULL,NULL
+"044","Cape Verde",NULL,NULL
+"045","Cayman Islands",NULL,NULL
+"046","Central African Republic",NULL,NULL
+"047","Chad",NULL,NULL
+"048","Chile",NULL,NULL
+"049","China",NULL,NULL
+"050","Christmas Island",NULL,NULL
+"051","Clipperton Island",NULL,NULL
+"052","Cocos (Keeling) Islands",NULL,NULL
+"053","Colombia",NULL,NULL
+"054","Comoros",NULL,NULL
+"055","Congo"," Democratic Republic of the",NULL
+"056","Congo"," Republic of the",NULL
+"057","Cook Islands",NULL,NULL
+"058","Coral Sea Islands",NULL,NULL
+"059","Costa Rica",NULL,NULL
+"060","Cote dIvoire",NULL,NULL
+"061","Croatia",NULL,NULL
+"062","Cuba",NULL,NULL
+"063","Cyprus",NULL,NULL
+"064","Czech Republic",NULL,NULL
+"065","Denmark",NULL,NULL
+"066","Dhekelia",NULL,NULL
+"067","Djibouti",NULL,NULL
+"068","Dominica",NULL,NULL
+"069","Dominican Republic",NULL,NULL
+"070","Ecuador",NULL,NULL
+"071","Egypt",NULL,NULL
+"072","El Salvador",NULL,NULL
+"073","Equatorial Guinea",NULL,NULL
+"074","Eritrea",NULL,NULL
+"075","Estonia",NULL,NULL
+"076","Ethiopia",NULL,NULL
+"077","Europa Island",NULL,NULL
+"078","Falkland Islands (Islas Malvinas)",NULL,NULL
+"079","Faroe Islands",NULL,NULL
+"080","Fiji",NULL,NULL
+"081","Finland",NULL,NULL
+"082","France",NULL,NULL
+"083","French Guiana",NULL,NULL
+"084","French Polynesia",NULL,NULL
+"085","French Southern and Antarctic Lands",NULL,NULL
+"086","Gabon",NULL,NULL
+"087","Gambia"," The",NULL
+"088","Gaza Strip",NULL,NULL
+"089","Georgia",NULL,NULL
+"090","Germany",NULL,NULL
+"091","Ghana",NULL,NULL
+"092","Gibraltar",NULL,NULL
+"093","Glorioso Islands",NULL,NULL
+"094","Greece",NULL,NULL
+"095","Greenland",NULL,NULL
+"096","Grenada",NULL,NULL
+"097","Guadeloupe",NULL,NULL
+"098","Guam",NULL,NULL
+"099","Guatemala",NULL,NULL
+"100","Guernsey",NULL,NULL
+"101","Guinea",NULL,NULL
+"102","Guinea-Bissau",NULL,NULL
+"103","Guyana",NULL,NULL
+"104","Haiti",NULL,NULL
+"105","Heard Island and McDonald Islands",NULL,NULL
+"106","Holy See (Vatican City)",NULL,NULL
+"107","Honduras",NULL,NULL
+"108","Hong Kong",NULL,NULL
+"109","Hungary",NULL,NULL
+"110","Iceland",NULL,NULL
+"111","India",NULL,NULL
+"112","Indonesia",NULL,NULL
+"113","Iran",NULL,NULL
+"114","Iraq",NULL,NULL
+"115","Ireland",NULL,NULL
+"116","Isle of Man",NULL,NULL
+"117","Israel",NULL,NULL
+"118","Italy",NULL,NULL
+"119","Jamaica",NULL,NULL
+"120","Jan Mayen",NULL,NULL
+"121","Japan",NULL,NULL
+"122","Jersey",NULL,NULL
+"123","Jordan",NULL,NULL
+"124","Juan de Nova Island",NULL,NULL
+"125","Kazakhstan",NULL,NULL
+"126","Kenya",NULL,NULL
+"127","Kiribati",NULL,NULL
+"128","Korea"," North",NULL
+"129","Korea"," South",NULL
+"130","Kuwait",NULL,NULL
+"131","Kyrgyzstan",NULL,NULL
+"132","Laos",NULL,NULL
+"133","Latvia",NULL,NULL
+"134","Lebanon",NULL,NULL
+"135","Lesotho",NULL,NULL
+"136","Liberia",NULL,NULL
+"137","Libya",NULL,NULL
+"138","Liechtenstein",NULL,NULL
+"139","Lithuania",NULL,NULL
+"140","Luxembourg",NULL,NULL
+"141","Macau",NULL,NULL
+"142","Macedonia",NULL,NULL
+"143","Madagascar",NULL,NULL
+"144","Malawi",NULL,NULL
+"145","Malaysia",NULL,NULL
+"146","Maldives",NULL,NULL
+"147","Mali",NULL,NULL
+"148","Malta",NULL,NULL
+"149","Marshall Islands",NULL,NULL
+"150","Martinique",NULL,NULL
+"151","Mauritania",NULL,NULL
+"152","Mauritius",NULL,NULL
+"153","Mayotte",NULL,NULL
+"154","Mexico",NULL,NULL
+"155","Micronesia"," Federated States of",NULL
+"156","Moldova",NULL,NULL
+"157","Monaco",NULL,NULL
+"158","Mongolia",NULL,NULL
+"159","Montserrat",NULL,NULL
+"160","Morocco",NULL,NULL
+"161","Mozambique",NULL,NULL
+"162","Namibia",NULL,NULL
+"163","Nauru",NULL,NULL
+"164","Navassa Island",NULL,NULL
+"165","Nepal",NULL,NULL
+"166","Netherlands",NULL,NULL
+"167","Netherlands Antilles",NULL,NULL
+"168","New Caledonia",NULL,NULL
+"169","New Zealand",NULL,NULL
+"170","Nicaragua",NULL,NULL
+"171","Niger",NULL,NULL
+"172","Nigeria",NULL,NULL
+"173","Niue",NULL,NULL
+"174","Norfolk Island",NULL,NULL
+"175","Northern Mariana Islands",NULL,NULL
+"176","Norway",NULL,NULL
+"177","Oman",NULL,NULL
+"178","Pakistan",NULL,NULL
+"179","Palau",NULL,NULL
+"180","Panama",NULL,NULL
+"181","Papua New Guinea",NULL,NULL
+"182","Paracel Islands",NULL,NULL
+"183","Paraguay",NULL,NULL
+"184","Peru",NULL,NULL
+"185","Philippines",NULL,NULL
+"186","Pitcairn Islands",NULL,NULL
+"187","Poland",NULL,NULL
+"188","Portugal",NULL,NULL
+"189","Puerto Rico",NULL,NULL
+"190","Qatar",NULL,NULL
+"191","Reunion",NULL,NULL
+"192","Romania",NULL,NULL
+"193","Russia",NULL,NULL
+"194","Rwanda",NULL,NULL
+"195","Saint Helena",NULL,NULL
+"196","Saint Kitts and Nevis",NULL,NULL
+"197","Saint Lucia",NULL,NULL
+"198","Saint Pierre and Miquelon",NULL,NULL
+"199","Saint Vincent and the Grenadines",NULL,NULL
+"200","Samoa",NULL,NULL
+"201","San Marino",NULL,NULL
+"202","Sao Tome and Principe",NULL,NULL
+"203","Saudi Arabia",NULL,NULL
+"204","Senegal",NULL,NULL
+"205","Serbia and Montenegro",NULL,NULL
+"206","Seychelles",NULL,NULL
+"207","Sierra Leone",NULL,NULL
+"208","Singapore",NULL,NULL
+"209","Slovakia",NULL,NULL
+"210","Slovenia",NULL,NULL
+"211","Solomon Islands",NULL,NULL
+"212","Somalia",NULL,NULL
+"213","South Africa",NULL,NULL
+"214","South Georgia and the South Sandwich Islands",NULL,NULL
+"215","Spain",NULL,NULL
+"216","Spratly Islands",NULL,NULL
+"217","Sri Lanka",NULL,NULL
+"218","Sudan",NULL,NULL
+"219","Suriname",NULL,NULL
+"220","Svalbard",NULL,NULL
+"221","Swaziland",NULL,NULL
+"222","Sweden",NULL,NULL
+"223","Switzerland",NULL,NULL
+"224","Syria",NULL,NULL
+"225","Taiwan",NULL,NULL
+"226","Tajikistan",NULL,NULL
+"227","Tanzania",NULL,NULL
+"228","Thailand",NULL,NULL
+"229","Timor-Leste",NULL,NULL
+"230","Togo",NULL,NULL
+"231","Tokelau",NULL,NULL
+"232","Tonga",NULL,NULL
+"233","Trinidad and Tobago",NULL,NULL
+"234","Tromelin Island",NULL,NULL
+"235","Tunisia",NULL,NULL
+"236","Turkey",NULL,NULL
+"237","Turkmenistan",NULL,NULL
+"238","Turks and Caicos Islands",NULL,NULL
+"239","Tuvalu",NULL,NULL
+"240","Uganda",NULL,NULL
+"241","Ukraine",NULL,NULL
+"242","United Arab Emirates",NULL,NULL
+"243","United Kingdom",NULL,NULL
+"244","United States",NULL,NULL
+"245","Uruguay",NULL,NULL
+"246","Uzbekistan",NULL,NULL
+"247","Vanuatu",NULL,NULL
+"248","Venezuela",NULL,NULL
+"249","Vietnam",NULL,NULL
+"250","Virgin Islands",NULL,NULL
+"251","Wake Island",NULL,NULL
+"252","Wallis and Futuna",NULL,NULL
+"253","West Bank",NULL,NULL
+"254","Western Sahara",NULL,NULL
+"255","Yemen",NULL,NULL
+"256","Zambia",NULL,NULL
+"257","Zimbabwe",NULL,NULL

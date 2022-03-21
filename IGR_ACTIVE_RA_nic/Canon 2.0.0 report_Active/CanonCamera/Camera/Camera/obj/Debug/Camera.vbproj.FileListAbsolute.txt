@@ -1,0 +1,403 @@
+D:\1.7.0\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+D:\1.7.0\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+D:\1.7.0\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+D:\1.7.0\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+D:\1.7.0\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+D:\1.7.0\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+D:\1.7.0\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+D:\1.7.0\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+D:\1.7.0\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+D:\1.7.0\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+D:\1.7.0_modified on 09-06 as per nic\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+D:\1.7.0_modified on 09-06 as per nic\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+D:\1.7.0_modified on 09-06 as per nic\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+D:\1.7.0_modified on 09-06 as per nic\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+D:\1.7.0_modified on 09-06 as per nic\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+D:\1.7.0_modified on 09-06 as per nic\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+D:\1.7.0_modified on 09-06 as per nic\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+D:\1.7.0_modified on 09-06 as per nic\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+D:\1.7.0_modified on 09-06 as per nic\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+D:\1.7.0_modified on 09-06 as per nic\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+D:\1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+D:\1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+D:\1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+D:\1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+D:\1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+D:\1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+D:\1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+D:\1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+D:\1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+D:\1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\GenerateResource-ResGen.write.1.tlog
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+H:\works\bzer_ra_ng_1.8\1.8.0\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+H:\works\bzer_ra_ng_1.8\1.8.0\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+H:\works\bzer_ra_ng_1.8\1.8.0\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+H:\works\bzer_ra_ng_1.8\1.8.0\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+H:\works\bzer_ra_ng_1.8\1.8.0\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+H:\works\bzer_ra_ng_1.8\1.8.0\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+H:\works\bzer_ra_ng_1.8\1.8.0\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+H:\works\bzer_ra_ng_1.8\1.8.0\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+H:\works\bzer_ra_ng_1.8\1.8.0\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+H:\works\bzer_ra_ng_1.8\1.8.0\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Users\USER\Desktop\1.8.0\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Users\USER\Desktop\1.8.0\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Users\USER\Desktop\1.8.0\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Users\USER\Desktop\1.8.0\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\1.8.0\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Users\USER\Desktop\1.8.0\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Users\USER\Desktop\1.8.0\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\1.8.0\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Users\USER\Desktop\1.8.0\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Users\USER\Desktop\1.8.0\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Users\USER\Desktop\1.8.0 report - Copy\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Users\USER\Desktop\1.8.0 report - Copy\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Users\USER\Desktop\1.8.0 report - Copy\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Users\USER\Desktop\1.8.0 report - Copy\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\1.8.0 report - Copy\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Users\USER\Desktop\1.8.0 report - Copy\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Users\USER\Desktop\1.8.0 report - Copy\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\1.8.0 report - Copy\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Users\USER\Desktop\1.8.0 report - Copy\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Users\USER\Desktop\1.8.0 report - Copy\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+G:\FdriveBackup\Works\2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+G:\FdriveBackup\Works\2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+G:\FdriveBackup\Works\2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+G:\FdriveBackup\Works\2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+G:\FdriveBackup\Works\2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+G:\FdriveBackup\Works\2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+G:\FdriveBackup\Works\2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+G:\FdriveBackup\Works\2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+G:\FdriveBackup\Works\2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+G:\FdriveBackup\Works\2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\ResolveAssemblyReference.cache
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbprojResolveAssemblyReference.cache
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+\\192.168.1.10\Backup\SOFTWARE_SC\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+\\192.168.1.10\Backup\SOFTWARE_SC\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+\\192.168.1.10\Backup\SOFTWARE_SC\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+\\192.168.1.10\Backup\SOFTWARE_SC\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbprojResolveAssemblyReference.cache
+\\192.168.1.10\Backup\SOFTWARE_SC\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+\\192.168.1.10\Backup\SOFTWARE_SC\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+\\192.168.1.10\Backup\SOFTWARE_SC\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+\\192.168.1.10\Backup\SOFTWARE_SC\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+\\192.168.1.10\Backup\SOFTWARE_SC\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+\\192.168.1.10\Backup\SOFTWARE_SC\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbprojResolveAssemblyReference.cache
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbprojResolveAssemblyReference.cache
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbprojResolveAssemblyReference.cache
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Users\SandhiS\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Users\SandhiS\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Users\SandhiS\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Users\SandhiS\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Users\SandhiS\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Users\SandhiS\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Users\SandhiS\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Users\SandhiS\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Users\SandhiS\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+C:\Users\SubhasishG\Desktop\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+C:\Users\SubhasishG\Desktop\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+C:\Users\SubhasishG\Desktop\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+C:\Users\SubhasishG\Desktop\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+C:\Users\SubhasishG\Desktop\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+C:\Users\SubhasishG\Desktop\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+C:\Users\SubhasishG\Desktop\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+C:\Users\SubhasishG\Desktop\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+C:\Users\SubhasishG\Desktop\Bzer- V5.5.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+E:\Sandhi\Laptop Backup\Sandhi Software\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+D:\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.dll
+D:\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.pdb
+D:\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\bin\Debug\Camera.xml
+D:\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Camerafunctions.Camera.resources
+D:\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.Resources.resources
+D:\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.GenerateResource.Cache
+D:\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.dll
+D:\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.xml
+D:\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.pdb
+D:\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbprojAssemblyReference.cache
+D:\Bzer- V6.0.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\CanonCamera\Camera\Camera\obj\Debug\Camera.vbproj.CoreCompileInputs.cache

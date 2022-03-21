@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "batchManagement", "batchManagement.csproj", "{27656707-1E42-4AA3-BBC6-3DE51166884B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBed", "..\TestBed\TestBed.csproj", "{1E31A802-A3DA-4BB0-9EF7-DFA1CAD35D78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27656707-1E42-4AA3-BBC6-3DE51166884B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27656707-1E42-4AA3-BBC6-3DE51166884B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27656707-1E42-4AA3-BBC6-3DE51166884B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27656707-1E42-4AA3-BBC6-3DE51166884B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E31A802-A3DA-4BB0-9EF7-DFA1CAD35D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E31A802-A3DA-4BB0-9EF7-DFA1CAD35D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E31A802-A3DA-4BB0-9EF7-DFA1CAD35D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E31A802-A3DA-4BB0-9EF7-DFA1CAD35D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

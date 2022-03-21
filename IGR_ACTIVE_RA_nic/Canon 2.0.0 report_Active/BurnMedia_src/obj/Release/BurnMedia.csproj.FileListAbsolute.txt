@@ -1,0 +1,33 @@
+G:\Copy of 1.7.0_modified on 19-06 new output\BurnMedia_src\bin\Release\BurnMedia.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\BurnMedia_src\bin\Release\BurnMedia.pdb
+G:\Copy of 1.7.0_modified on 19-06 new output\BurnMedia_src\bin\Release\Ionic.Zip.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\BurnMedia_src\bin\Release\NovaNet.Utils.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\BurnMedia_src\bin\Release\Interop.ClearImage.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\BurnMedia_src\obj\Release\ResolveAssemblyReference.cache
+G:\Copy of 1.7.0_modified on 19-06 new output\BurnMedia_src\obj\Release\BurnMedia.MainForm.resources
+G:\Copy of 1.7.0_modified on 19-06 new output\BurnMedia_src\obj\Release\BurnMedia.Properties.Resources.resources
+G:\Copy of 1.7.0_modified on 19-06 new output\BurnMedia_src\obj\Release\BurnMedia.csproj.GenerateResource.Cache
+G:\Copy of 1.7.0_modified on 19-06 new output\BurnMedia_src\obj\Release\BurnMedia.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\BurnMedia_src\obj\Release\BurnMedia.pdb
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\bin\Release\BurnMedia.dll
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\bin\Release\BurnMedia.pdb
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\bin\Release\Ionic.Zip.dll
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\bin\Release\LItems.dll
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\bin\Release\Microsoft.SqlServer.Replication.dll
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\bin\Release\NovaNet.Utils.dll
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\bin\Release\NovaNet.wfe.dll
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\bin\Release\wSelect.dll
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\bin\Release\Interop.ClearImage.dll
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\bin\Release\office.dll
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\bin\Release\Microsoft.SqlServer.BatchParser.dll
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\bin\Release\NovaNet.wfe.pdb
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\bin\Release\wSelect.pdb
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\bin\Release\LItems.pdb
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\obj\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\obj\Release\BurnMedia.MainForm.resources
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\obj\Release\BurnMedia.Properties.Resources.resources
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\obj\Release\BurnMedia.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\obj\Release\BurnMedia.dll
+C:\Users\USER\Desktop\1.8.0 report\BurnMedia_src\obj\Release\BurnMedia.pdb

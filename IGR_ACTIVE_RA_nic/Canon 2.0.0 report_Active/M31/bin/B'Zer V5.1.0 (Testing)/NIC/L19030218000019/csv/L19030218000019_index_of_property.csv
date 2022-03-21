@@ -1,0 +1,6 @@
+District_Code,RO_Code,Book,Deed_year,Deed_no,Item_no,Property_district_code,district_name,Property_ro_code,ps_code,ps_name,moucode,mouja,Area_type,GP_Muni_Corp_Code,GP_Muni_Name,Ward,Holding,Premises,road_code,Plot_code_type,Road,Plot_No,Bata_No,Khatian_type,khatian_No,bata_khatian_no,property_type,Land_Area_acre,Land_Area_bigha,Land_Area_decimal,Land_Area_katha,Land_Area_chatak,Land_Area_sqfeet,Structure_area_in_sqFeet,ref_ps,ref_mouza,jl_no,other_plots,other_khatian,land_type,refjl_no,Exception_Type
+"19","03","1","2010","00001","1","99","N/A","99","999","N/A",,,,,,,,,,"CS",,"66","0","CS",,,"AS","0","0","6","0","0","0","0",,,,,,,,"02"
+"19","03","1","2010","00002","1","99","N/A","99","999","N/A",,,,,,,,,,"CS",,"77","0","CS",,,"AS","0","0","7","0","0","0","0",,,,,,,,"02"
+"19","03","1","2010","00022","1","99","N/A","99","999","N/A",,,,,,,,,,"CS",,"0","0","CS",,,"AS","0","0","0","0","0","0","0",,,,,,,,"02;05;06"
+"19","03","1","2010","00011","1","99","N/A","99","999","N/A",,,,,,,,,,"CS",,"77","0","CS",,,"AS","0","0","9","0","0","0","0",,,,,,,,"02"
+"19","03","1","2010","00077","1","99","N/A","99","999","N/A",,,,,,,,,,"CS",,"77","0","CS",,,"AS","0","0","88","0","0","0","0",,,,,,,,"02"

@@ -1,0 +1,1422 @@
+"001","01","Balkh",NULL
+"001","02","Herat",NULL
+"001","03","Kabol",NULL
+"001","04","Qandahar",NULL
+"003","01","Tirana",NULL
+"004","01","Alger",NULL
+"004","02","Annaba",NULL
+"004","03","Batna",NULL
+"004","04","BÚchar",NULL
+"004","05","BÚja´a",NULL
+"004","06","Biskra",NULL
+"004","07","Blida",NULL
+"004","08","Chlef",NULL
+"004","09","Constantine",NULL
+"004","10","Gharda´a",NULL
+"004","11","Mostaganem",NULL
+"004","12","Oran",NULL
+"004","13","SÚtif",NULL
+"004","14","Sidi Bel AbbÞs",NULL
+"004","15","Skikda",NULL
+"004","16","TÚbessa",NULL
+"004","17","Tiaret",NULL
+"004","18","Tlemcen",NULL
+"005","01","Tutuila",NULL
+"006","01","Andorra la Vella",NULL
+"007","01","Benguela",NULL
+"007","02","Huambo",NULL
+"007","03","Luanda",NULL
+"007","04","Namibe",NULL
+"008","01","South Hill",NULL
+"008","02","The Valley",NULL
+"008","03","Oranjestad",NULL
+"008","04","NoumÚa",NULL
+"008","05","CittÓ del Vaticano",NULL
+"008","06","Singapore",NULL
+"008","07","Monte-Carlo",NULL
+"008","08","Monaco-Ville",NULL
+"008","09","Yangor",NULL
+"008","10","Yaren",NULL
+"008","11","Alofi",NULL
+"008","12","Kingston",NULL
+"008","13","Adamstown",NULL
+"008","14","Flying Fish Cove",NULL
+"008","15","Gibraltar",NULL
+"008","16","Tamuning",NULL
+"008","17","Aga±a",NULL
+"008","18","Douglas",NULL
+"010","01","St John",NULL
+"011","01","Buenos Aires",NULL
+"011","02","Catamarca",NULL
+"011","03","Chaco",NULL
+"011","04","Chubut",NULL
+"011","05","C¾rdoba",NULL
+"011","06","Corrientes",NULL
+"011","07","Distrito Federal",NULL
+"011","08","Entre Rios",NULL
+"011","09","Formosa",NULL
+"011","10","Jujuy",NULL
+"011","11","La Rioja",NULL
+"011","12","Mendoza",NULL
+"011","13","Misiones",NULL
+"011","14","NeuquÚn",NULL
+"011","15","Salta",NULL
+"011","16","San Juan",NULL
+"011","17","San Luis",NULL
+"011","18","Santa FÚ",NULL
+"011","19","Santiago del Estero",NULL
+"011","20","Tucumßn",NULL
+"012","01","Lori",NULL
+"012","02","èirak",NULL
+"012","03","Yerevan",NULL
+"015","01","Capital Region",NULL
+"015","02","New South Wales",NULL
+"015","03","Queensland",NULL
+"015","04","South Australia",NULL
+"015","05","Tasmania",NULL
+"015","06","Victoria",NULL
+"015","07","West Australia",NULL
+"016","01","Kõrnten",NULL
+"016","02","North Austria",NULL
+"016","03","Salzburg",NULL
+"016","04","Steiermark",NULL
+"016","05","Tiroli",NULL
+"016","06","Wien",NULL
+"017","01","Baki",NULL
+"017","02","Gõncõ",NULL
+"017","03","Mingõþevir",NULL
+"017","04","Sumqayit",NULL
+"018","01","New Providence",NULL
+"019","01","al-Manama",NULL
+"020","01","Barisal",NULL
+"020","02","Chittagong",NULL
+"020","03","Dhaka",NULL
+"020","04","Khulna",NULL
+"020","05","Rajshahi",NULL
+"020","06","Sylhet",NULL
+"021","01","St Michael",NULL
+"023","01","Brest",NULL
+"023","02","Gomel",NULL
+"023","03","Grodno",NULL
+"023","04","Horad Minsk",NULL
+"023","05","Minsk",NULL
+"023","06","Mogiljov",NULL
+"023","07","Vitebsk",NULL
+"024","01","Antwerpen",NULL
+"024","02","Bryssel",NULL
+"024","03","East Flanderi",NULL
+"024","04","Hainaut",NULL
+"024","05","LiÞge",NULL
+"024","06","Namur",NULL
+"024","07","West Flanderi",NULL
+"025","01","Belize City",NULL
+"025","02","Cayo",NULL
+"026","01","Atacora",NULL
+"026","02","Atlantique",NULL
+"026","03","Borgou",NULL
+"026","04","OuÚmÚ",NULL
+"027","01","Hamilton",NULL
+"027","02","Saint George¦s",NULL
+"028","01","Thimphu",NULL
+"029","01","Chuquisaca",NULL
+"029","02","Cochabamba",NULL
+"029","03","La Paz",NULL
+"029","04","Oruro",NULL
+"029","05","PotosÝ",NULL
+"029","06","Santa Cruz",NULL
+"029","07","Tarija",NULL
+"030","01","Federaatio",NULL
+"030","02","Republika Srpska",NULL
+"031","01","Francistown",NULL
+"031","02","Gaborone",NULL
+"033","01","Acre",NULL
+"033","02","Alagoas",NULL
+"033","03","Amapß",NULL
+"033","04","Amazonas",NULL
+"033","05","Bahia",NULL
+"033","06","Cearß",NULL
+"033","07","Distrito Federal",NULL
+"033","08","EspÝrito Santo",NULL
+"033","09","Goißs",NULL
+"033","10","MaranhÒo",NULL
+"033","11","Mato Grosso",NULL
+"033","12","Mato Grosso do Sul",NULL
+"033","13","Minas Gerais",NULL
+"033","14","Parß",NULL
+"033","15","ParaÝba",NULL
+"033","16","Paranß",NULL
+"033","17","Pernambuco",NULL
+"033","18","PiauÝ",NULL
+"033","19","Rio de Janeiro",NULL
+"033","20","Rio Grande do Norte",NULL
+"033","21","Rio Grande do Sul",NULL
+"033","22","Rond¶nia",NULL
+"033","23","Roraima",NULL
+"033","24","Santa Catarina",NULL
+"033","25","SÒo Paulo",NULL
+"033","26","Sergipe",NULL
+"033","27","Tocantins",NULL
+"036","01","Brunei and Muara",NULL
+"037","01","Burgas",NULL
+"037","02","Grad Sofija",NULL
+"037","03","Haskovo",NULL
+"037","04","Lovec",NULL
+"037","05","Plovdiv",NULL
+"037","06","Ruse",NULL
+"037","07","Varna",NULL
+"038","01","BoulkiemdÚ",NULL
+"038","02","Houet",NULL
+"038","03","Kadiogo",NULL
+"039","01","Irrawaddy [Ayeyarwad",NULL
+"039","02","Magwe [Magway]",NULL
+"039","03","Mandalay",NULL
+"039","04","Mon",NULL
+"039","05","Pegu [Bago]",NULL
+"039","06","Rakhine",NULL
+"039","07","Rangoon [Yangon]",NULL
+"039","08","Sagaing",NULL
+"039","09","Shan",NULL
+"039","10","Tenasserim [Tanintha",NULL
+"040","01","Bujumbura",NULL
+"041","01","Battambang",NULL
+"041","02","Phnom Penh",NULL
+"041","03","Siem Reap",NULL
+"042","01","Centre",NULL
+"042","02","ExtrÛme-Nord",NULL
+"042","03","Littoral",NULL
+"042","04","Nord",NULL
+"042","05","Nord-Ouest",NULL
+"042","06","Ouest",NULL
+"043","01","Alberta",NULL
+"043","02","British Colombia",NULL
+"043","03","Manitoba",NULL
+"043","04","Newfoundland",NULL
+"043","05","Nova Scotia",NULL
+"043","06","Ontario",NULL
+"043","07","QuÚbec",NULL
+"043","08","Saskatchewan",NULL
+"044","01","SÒo Tiago",NULL
+"045","01","Grand Cayman",NULL
+"046","01","Bangui",NULL
+"047","01","Chari-Baguirmi",NULL
+"047","02","Logone Occidental",NULL
+"048","01","Antofagasta",NULL
+"048","02","Atacama",NULL
+"048","03","BÝobÝo",NULL
+"048","04","Coquimbo",NULL
+"048","05","La AraucanÝa",NULL
+"048","06","Los Lagos",NULL
+"048","07","Magallanes",NULL
+"048","08","Maule",NULL
+"048","09","O¦Higgins",NULL
+"048","10","Santiago",NULL
+"048","11","Tarapacß",NULL
+"048","12","ValparaÝso",NULL
+"049","01","Anhui",NULL
+"049","02","Chongqing",NULL
+"049","03","Fujian",NULL
+"049","04","Gansu",NULL
+"049","05","Guangdong",NULL
+"049","06","Guangxi",NULL
+"049","07","Guizhou",NULL
+"049","08","Hainan",NULL
+"049","09","Hebei",NULL
+"049","10","Heilongjiang",NULL
+"049","11","Henan",NULL
+"049","12","Hubei",NULL
+"049","13","Hunan",NULL
+"049","14","Inner Mongolia",NULL
+"049","15","Jiangsu",NULL
+"049","16","Jiangxi",NULL
+"049","17","Jilin",NULL
+"049","18","Liaoning",NULL
+"049","19","Ningxia",NULL
+"049","20","Peking",NULL
+"049","21","Qinghai",NULL
+"049","22","Shaanxi",NULL
+"049","23","Shandong",NULL
+"049","24","Shanghai",NULL
+"049","25","Shanxi",NULL
+"049","26","Sichuan",NULL
+"049","27","Tianjin",NULL
+"049","28","Tibet",NULL
+"049","29","Xinxiang",NULL
+"049","30","Yunnan",NULL
+"049","31","Zhejiang",NULL
+"052","01","Home Island",NULL
+"052","02","West Island",NULL
+"053","01","Antioquia",NULL
+"053","02","Atlßntico",NULL
+"053","03","BolÝvar",NULL
+"053","04","Boyacß",NULL
+"053","05","Caldas",NULL
+"053","06","Caquetß",NULL
+"053","07","Cauca",NULL
+"053","08","Cesar",NULL
+"053","09","C¾rdoba",NULL
+"053","10","Cundinamarca",NULL
+"053","11","Huila",NULL
+"053","12","La Guajira",NULL
+"053","13","Magdalena",NULL
+"053","14","Meta",NULL
+"053","15","Nari±o",NULL
+"053","16","Norte de Santander",NULL
+"053","17","QuindÝo",NULL
+"053","18","Risaralda",NULL
+"053","19","SantafÚ de Bogotß",NULL
+"053","20","Santander",NULL
+"053","21","Sucre",NULL
+"053","22","Tolima",NULL
+"053","23","Valle",NULL
+"054","01","Njazidja",NULL
+"055","01","Bandundu",NULL
+"055","02","Bas-Za´re",NULL
+"055","03","East Kasai",NULL
+"055","04","Equateur",NULL
+"055","05","Haute-Za´re",NULL
+"055","06","Kinshasa",NULL
+"055","07","North Kivu",NULL
+"055","08","Shaba",NULL
+"055","09","South Kivu",NULL
+"055","10","West Kasai",NULL
+"056","01","Brazzaville",NULL
+"056","02","Kouilou",NULL
+"057","01","Rarotonga",NULL
+"059","01","San JosÚ",NULL
+"060","01","Abidjan",NULL
+"060","02","BouakÚ",NULL
+"060","03","Daloa",NULL
+"060","04","Korhogo",NULL
+"060","05","Yamoussoukro",NULL
+"061","01","Grad Zagreb",NULL
+"061","02","Osijek-Baranja",NULL
+"061","03","Primorje-Gorski Kota",NULL
+"061","04","Split-Dalmatia",NULL
+"062","01","Camag³ey",NULL
+"062","02","Ciego de -vila",NULL
+"062","03","Cienfuegos",NULL
+"062","04","Granma",NULL
+"062","05","Guantßnamo",NULL
+"062","06","HolguÝn",NULL
+"062","07","La Habana",NULL
+"062","08","Las Tunas",NULL
+"062","09","Matanzas",NULL
+"062","10","Pinar del RÝo",NULL
+"062","11","Sancti-SpÝritus",NULL
+"062","12","Santiago de Cuba",NULL
+"062","13","Villa Clara",NULL
+"063","01","Limassol",NULL
+"063","02","Nicosia",NULL
+"064","01","HlavnÝ mesto Praha",NULL
+"064","02","JiznÝ Cechy",NULL
+"064","03","JiznÝ Morava",NULL
+"064","04","SevernÝ Cechy",NULL
+"064","05","SevernÝ Morava",NULL
+"064","06","V²chodnÝ Cechy",NULL
+"064","07","ZapadnÝ Cechy",NULL
+"065","01","+rhus",NULL
+"065","02","Frederiksberg",NULL
+"065","03","Fyn",NULL
+"065","04","K°benhavn",NULL
+"065","05","Nordjylland",NULL
+"067","01","Djibouti",NULL
+"068","01","St George",NULL
+"069","01","Distrito Nacional",NULL
+"069","02","Duarte",NULL
+"069","03","La Romana",NULL
+"069","04","Puerto Plata",NULL
+"069","05","San Pedro de MacorÝs",NULL
+"069","06","Santiago",NULL
+"070","01","Azuay",NULL
+"070","02","Chimborazo",NULL
+"070","03","El Oro",NULL
+"070","04","Esmeraldas",NULL
+"070","05","Guayas",NULL
+"070","06","Imbabura",NULL
+"070","07","Loja",NULL
+"070","08","Los RÝos",NULL
+"070","09","ManabÝ",NULL
+"070","10","Pichincha",NULL
+"070","11","Tungurahua",NULL
+"071","01","al-Buhayra",NULL
+"071","02","al-Daqahliya",NULL
+"071","03","Aleksandria",NULL
+"071","04","al-Faiyum",NULL
+"071","05","al-Gharbiya",NULL
+"071","06","al-Minufiya",NULL
+"071","07","al-Minya",NULL
+"071","08","al-Qalyubiya",NULL
+"071","09","al-Sharqiya",NULL
+"071","10","Assuan",NULL
+"071","11","Asyut",NULL
+"071","12","Bani Suwayf",NULL
+"071","13","Giza",NULL
+"071","14","Ismailia",NULL
+"071","15","Kafr al-Shaykh",NULL
+"071","16","Kairo",NULL
+"071","17","Luxor",NULL
+"071","18","Port Said",NULL
+"071","19","Qina",NULL
+"071","20","Sawhaj",NULL
+"071","21","Shamal Sina",NULL
+"071","22","Suez",NULL
+"072","01","La Libertad",NULL
+"072","02","San Miguel",NULL
+"072","03","San Salvador",NULL
+"072","04","Santa Ana",NULL
+"073","01","Bioko",NULL
+"074","01","Maekel",NULL
+"075","01","Harjumaa",NULL
+"075","02","Tartumaa",NULL
+"076","01","Addis Abeba",NULL
+"076","02","Amhara",NULL
+"076","03","Dire Dawa",NULL
+"076","04","Oromia",NULL
+"076","05","Tigray",NULL
+"078","01","East Falkland",NULL
+"079","01","Streymoyar",NULL
+"080","01","Central",NULL
+"081","01","Newmaa",NULL
+"081","02","Põijõt-Hõme",NULL
+"081","03","Pirkanmaa",NULL
+"081","04","Pohjois-Pohjanmaa",NULL
+"081","05","Varsinais-Suomi",NULL
+"082","01","Alsace",NULL
+"082","02","Aquitaine",NULL
+"082","03","Auvergne",NULL
+"082","04","Basse-Normandie",NULL
+"082","05","Bourgogne",NULL
+"082","06","Bretagne",NULL
+"082","07","Centre",NULL
+"082","08","Champagne-Ardenne",NULL
+"082","09","Franche-ComtÚ",NULL
+"082","10","Haute-Normandie",NULL
+"082","11","+le-de-France",NULL
+"082","12","Languedoc-Roussillon",NULL
+"082","13","Limousin",NULL
+"082","14","Lorraine",NULL
+"082","15","Midi-PyrÚnÚes",NULL
+"082","16","Nord-Pas-de-Calais",NULL
+"082","17","Pays de la Loire",NULL
+"082","18","Picardie",NULL
+"082","19","Provence-Alpes-C¶te",NULL
+"082","20","Rh¶ne-Alpes",NULL
+"083","01","Cayenne",NULL
+"084","01","Tahiti",NULL
+"086","01","Estuaire",NULL
+"087","01","Banjul",NULL
+"087","02","Kombo St Mary",NULL
+"089","01","Abhasia [Aphazeti]",NULL
+"089","02","Adzaria [AtÜara]",NULL
+"089","03","Imereti",NULL
+"089","04","Kvemo Kartli",NULL
+"089","05","Tbilisi",NULL
+"090","01","Anhalt Sachsen",NULL
+"090","02","Baden-W³rttemberg",NULL
+"090","03","Baijeri",NULL
+"090","04","Berliini",NULL
+"090","05","Brandenburg",NULL
+"090","06","Bremen",NULL
+"090","07","Hamburg",NULL
+"090","08","Hessen",NULL
+"090","09","Mecklenburg-Vorpomme",NULL
+"090","10","Niedersachsen",NULL
+"090","11","Nordrhein-Westfalen",NULL
+"090","12","Rheinland-Pfalz",NULL
+"090","13","Saarland",NULL
+"090","14","Saksi",NULL
+"090","15","Schleswig-Holstein",NULL
+"090","16","Th³ringen",NULL
+"091","01","Ashanti",NULL
+"091","02","Greater Accra",NULL
+"091","03","Northern",NULL
+"091","04","Western",NULL
+"094","01","Attika",NULL
+"094","02","Central Macedonia",NULL
+"094","03","Crete",NULL
+"094","04","Thessalia",NULL
+"094","05","West Greece",NULL
+"095","01","Kitaa",NULL
+"096","01","St George",NULL
+"097","01","Basse-Terre",NULL
+"097","02","Grande-Terre",NULL
+"098","01","--",NULL
+"099","01","Guatemala",NULL
+"099","02","Quetzaltenango",NULL
+"100","01","--",NULL
+"101","01","Conakry",NULL
+"102","01","Bissau",NULL
+"103","01","Georgetown",NULL
+"104","01","Nord",NULL
+"104","02","Ouest",NULL
+"107","01","Atlßntida",NULL
+"107","02","CortÚs",NULL
+"107","03","Distrito Central",NULL
+"108","01","Hongkong",NULL
+"108","02","Kowloon and New Kowl",NULL
+"109","01","Bßcs-Kiskun",NULL
+"109","02","Baranya",NULL
+"109","03","Borsod-Aba·j-ZemplÚn",NULL
+"109","04","Budapest",NULL
+"109","05","Csongrßd",NULL
+"109","06","FejÚr",NULL
+"109","07","Gy÷r-Moson-Sopron",NULL
+"109","08","Hajd·-Bihar",NULL
+"109","09","Szabolcs-Szatmßr-Ber",NULL
+"110","01","H÷fu­borgarsvµ­i",NULL
+"111","01","JAMMU AND  KASHMIR",NULL
+"111","02","HIMACHAL PRADESH",NULL
+"111","03","PUNJAB",NULL
+"111","04","CHANDIGARH",NULL
+"111","05","UTTARANCHAL",NULL
+"111","06","HARYANA",NULL
+"111","07","DELHI",NULL
+"111","08","RAJASTHAN",NULL
+"111","09","UTTAR PRADESH",NULL
+"111","10","BIHAR",NULL
+"111","11","SIKKIM",NULL
+"111","12","ARUNACHAL PRADESH",NULL
+"111","13","NAGALAND",NULL
+"111","14","MANIPUR",NULL
+"111","15","MIZORAM",NULL
+"111","16","TRIPURA",NULL
+"111","17","MEGHALAYA",NULL
+"111","18","ASSAM",NULL
+"111","19","WEST BENGAL",NULL
+"111","20","JHARKHAND",NULL
+"111","21","ORISSA",NULL
+"111","22","CHHATTISGARH",NULL
+"111","23","MADHYA PRADESH",NULL
+"111","24","GUJARAT",NULL
+"111","25","DAMAN AND  DIU",NULL
+"111","26","DADRA AND  NAGAR HAVELI",NULL
+"111","27","MAHARASHTRA",NULL
+"111","28","ANDHRA PRADESH",NULL
+"111","29","KARNATAKA",NULL
+"111","30","GOA",NULL
+"111","31","LAKSHADWEEP",NULL
+"111","32","KERALA",NULL
+"111","33","TAMIL NADU",NULL
+"111","34","PONDICHERRY",NULL
+"111","35","ANDAMAN AND  NICOBAR ISLANDS",NULL
+"112","01","Aceh",NULL
+"112","02","Bali",NULL
+"112","03","Bengkulu",NULL
+"112","04","Central Java",NULL
+"112","05","East Java",NULL
+"112","06","Jakarta Raya",NULL
+"112","07","Jambi",NULL
+"112","08","Kalimantan Barat",NULL
+"112","09","Kalimantan Selatan",NULL
+"112","10","Kalimantan Tengah",NULL
+"112","11","Kalimantan Timur",NULL
+"112","12","Lampung",NULL
+"112","13","Molukit",NULL
+"112","14","Nusa Tenggara Barat",NULL
+"112","15","Nusa Tenggara Timur",NULL
+"112","16","Riau",NULL
+"112","17","Sulawesi Selatan",NULL
+"112","18","Sulawesi Tengah",NULL
+"112","19","Sulawesi Tenggara",NULL
+"112","20","Sulawesi Utara",NULL
+"112","21","Sumatera Barat",NULL
+"112","22","Sumatera Selatan",NULL
+"112","23","Sumatera Utara",NULL
+"112","24","West Irian",NULL
+"112","25","West Java",NULL
+"112","26","Yogyakarta",NULL
+"113","01","Ardebil",NULL
+"113","02","Bushehr",NULL
+"113","03","Chaharmahal va Bakht",NULL
+"113","04","East Azerbaidzan",NULL
+"113","05","Esfahan",NULL
+"113","06","Fars",NULL
+"113","07","Gilan",NULL
+"113","08","Golestan",NULL
+"113","09","Hamadan",NULL
+"113","10","Hormozgan",NULL
+"113","11","Ilam",NULL
+"113","12","Kerman",NULL
+"113","13","Kermanshah",NULL
+"113","14","Khorasan",NULL
+"113","15","Khuzestan",NULL
+"113","16","Kordestan",NULL
+"113","17","Lorestan",NULL
+"113","18","Markazi",NULL
+"113","19","Mazandaran",NULL
+"113","20","Qazvin",NULL
+"113","21","Qom",NULL
+"113","22","Semnan",NULL
+"113","23","Sistan va Baluchesta",NULL
+"113","24","Teheran",NULL
+"113","25","West Azerbaidzan",NULL
+"113","26","Yazd",NULL
+"113","27","Zanjan",NULL
+"114","01","al-Anbar",NULL
+"114","02","al-Najaf",NULL
+"114","03","al-Qadisiya",NULL
+"114","04","al-Sulaymaniya",NULL
+"114","05","al-Tamim",NULL
+"114","06","Babil",NULL
+"114","07","Baghdad",NULL
+"114","08","Basra",NULL
+"114","09","DhiQar",NULL
+"114","10","Diyala",NULL
+"114","11","Irbil",NULL
+"114","12","Karbala",NULL
+"114","13","Maysan",NULL
+"114","14","Ninawa",NULL
+"114","15","Wasit",NULL
+"115","01","Leinster",NULL
+"115","02","Munster",NULL
+"117","01","Ha Darom",NULL
+"117","02","Ha Merkaz",NULL
+"117","03","Haifa",NULL
+"117","04","Jerusalem",NULL
+"117","05","Tel Aviv",NULL
+"118","01","Abruzzit",NULL
+"118","02","Apulia",NULL
+"118","03","Calabria",NULL
+"118","04","Campania",NULL
+"118","05","Emilia-Romagna",NULL
+"118","06","Friuli-Venezia Giuli",NULL
+"118","07","Latium",NULL
+"118","08","Liguria",NULL
+"118","09","Lombardia",NULL
+"118","10","Marche",NULL
+"118","11","Piemonte",NULL
+"118","12","Sardinia",NULL
+"118","13","Sisilia",NULL
+"118","14","Toscana",NULL
+"118","15","Trentino-Alto Adige",NULL
+"118","16","Umbria",NULL
+"118","17","Veneto",NULL
+"119","01","St. Andrew",NULL
+"119","02","St. Catherine",NULL
+"121","01","Aichi",NULL
+"121","02","Akita",NULL
+"121","03","Aomori",NULL
+"121","04","Chiba",NULL
+"121","05","Ehime",NULL
+"121","06","Fukui",NULL
+"121","07","Fukuoka",NULL
+"121","08","Fukushima",NULL
+"121","09","Gifu",NULL
+"121","10","Gumma",NULL
+"121","11","Hiroshima",NULL
+"121","12","Hokkaido",NULL
+"121","13","Hyogo",NULL
+"121","14","Ibaragi",NULL
+"121","15","Ishikawa",NULL
+"121","16","Iwate",NULL
+"121","17","Kagawa",NULL
+"121","18","Kagoshima",NULL
+"121","19","Kanagawa",NULL
+"121","20","Kochi",NULL
+"121","21","Kumamoto",NULL
+"121","22","Kyoto",NULL
+"121","23","Mie",NULL
+"121","24","Miyagi",NULL
+"121","25","Miyazaki",NULL
+"121","26","Nagano",NULL
+"121","27","Nagasaki",NULL
+"121","28","Nara",NULL
+"121","29","Niigata",NULL
+"121","30","Oita",NULL
+"121","31","Okayama",NULL
+"121","32","Okinawa",NULL
+"121","33","Osaka",NULL
+"121","34","Saga",NULL
+"121","35","Saitama",NULL
+"121","36","Shiga",NULL
+"121","37","Shimane",NULL
+"121","38","Shizuoka",NULL
+"121","39","Tochigi",NULL
+"121","40","Tokushima",NULL
+"121","41","Tokyo-to",NULL
+"121","42","Tottori",NULL
+"121","43","Toyama",NULL
+"121","44","Wakayama",NULL
+"121","45","Yamagata",NULL
+"121","46","Yamaguchi",NULL
+"121","47","Yamanashi",NULL
+"123","01","al-Zarqa",NULL
+"123","02","Amman",NULL
+"123","03","Irbid",NULL
+"125","01","Almaty",NULL
+"125","02","Almaty Qalasy",NULL
+"125","03","Aqt÷be",NULL
+"125","04","Astana",NULL
+"125","05","Atyrau",NULL
+"125","06","East Kazakstan",NULL
+"125","07","Mangghystau",NULL
+"125","08","North Kazakstan",NULL
+"125","09","Pavlodar",NULL
+"125","10","Qaraghandy",NULL
+"125","11","Qostanay",NULL
+"125","12","Qyzylorda",NULL
+"125","13","South Kazakstan",NULL
+"125","14","Taraz",NULL
+"125","15","West Kazakstan",NULL
+"126","01","Central",NULL
+"126","02","Coast",NULL
+"126","03","Eastern",NULL
+"126","04","Nairobi",NULL
+"126","05","Nyanza",NULL
+"126","06","Rift Valley",NULL
+"127","01","South Tarawa",NULL
+"128","01","Chagang",NULL
+"128","02","Hamgyong N",NULL
+"128","03","Hamgyong P",NULL
+"128","04","Hwanghae N",NULL
+"128","05","Hwanghae P",NULL
+"128","06","Kaesong-si",NULL
+"128","07","Kangwon",NULL
+"128","08","Nampo-si",NULL
+"128","09","Pyongan N",NULL
+"128","10","Pyongan P",NULL
+"128","11","Pyongyang-si",NULL
+"128","12","Yanggang",NULL
+"129","01","Cheju",NULL
+"129","02","Chollabuk",NULL
+"129","03","Chollanam",NULL
+"129","04","Chungchongbuk",NULL
+"129","05","Chungchongnam",NULL
+"129","06","Inchon",NULL
+"129","07","Kang-won",NULL
+"129","08","Kwangju",NULL
+"129","09","Kyonggi",NULL
+"129","10","Kyongsangbuk",NULL
+"129","11","Kyongsangnam",NULL
+"129","12","Pusan",NULL
+"129","13","Seoul",NULL
+"129","14","Taegu",NULL
+"129","15","Taejon",NULL
+"130","01","al-Asima",NULL
+"130","02","Hawalli",NULL
+"131","01","Bishkek shaary",NULL
+"131","02","Osh",NULL
+"132","01","Savannakhet",NULL
+"132","02","Viangchan",NULL
+"133","01","Daugavpils",NULL
+"133","02","Liepaja",NULL
+"133","03","Riika",NULL
+"134","01","al-Shamal",NULL
+"134","02","Beirut",NULL
+"135","01","Maseru",NULL
+"136","01","Montserrado",NULL
+"137","01","al-Zawiya",NULL
+"137","02","Bengasi",NULL
+"137","03","Misrata",NULL
+"137","04","Tripoli",NULL
+"138","01","Schaan",NULL
+"138","02","Vaduz",NULL
+"139","01","Kaunas",NULL
+"139","02","Klaipeda",NULL
+"139","03","Panevezys",NULL
+"139","04","èiauliai",NULL
+"139","05","Vilna",NULL
+"140","01","Luxembourg",NULL
+"141","01","Macau",NULL
+"142","01","Skopje",NULL
+"143","01","Antananarivo",NULL
+"144","01","Blantyre",NULL
+"144","02","Lilongwe",NULL
+"144","03","Fianarantsoa",NULL
+"144","04","Mahajanga",NULL
+"144","05","Toamasina",NULL
+"145","01","Johor",NULL
+"145","02","Kedah",NULL
+"145","03","Kelantan",NULL
+"145","04","Negeri Sembilan",NULL
+"145","05","Pahang",NULL
+"145","06","Perak",NULL
+"145","07","Pulau Pinang",NULL
+"145","08","Sabah",NULL
+"145","09","Sarawak",NULL
+"145","10","Selangor",NULL
+"145","11","Terengganu",NULL
+"145","12","Wilayah Persekutuan",NULL
+"146","01","Maale",NULL
+"147","01","Bamako",NULL
+"148","01","Inner Harbour",NULL
+"148","02","Outer Harbour",NULL
+"149","01","Majuro",NULL
+"150","01","Fort-de-France",NULL
+"151","01","Dakhlet NouÔdhibou",NULL
+"151","02","Nouakchott",NULL
+"152","01","Plaines Wilhelms",NULL
+"152","02","Port-Louis",NULL
+"153","01","Mamoutzou",NULL
+"154","01","Aguascalientes",NULL
+"154","02","Baja California",NULL
+"154","03","Baja California Sur",NULL
+"154","04","Campeche",NULL
+"154","05","Chiapas",NULL
+"154","06","Chihuahua",NULL
+"154","07","Coahuila de Zaragoza",NULL
+"154","08","Colima",NULL
+"154","09","Distrito Federal",NULL
+"154","10","Durango",NULL
+"154","11","Guanajuato",NULL
+"154","12","Guerrero",NULL
+"154","13","Hidalgo",NULL
+"154","14","Jalisco",NULL
+"154","15","MÚxico",NULL
+"154","16","Michoacßn de Ocampo",NULL
+"154","17","Morelos",NULL
+"154","18","Nayarit",NULL
+"154","19","Nuevo Le¾n",NULL
+"154","20","Oaxaca",NULL
+"154","21","Puebla",NULL
+"154","22","QuerÚtaro",NULL
+"154","23","QuerÚtaro de Arteaga",NULL
+"154","24","Quintana Roo",NULL
+"154","25","San Luis PotosÝ",NULL
+"154","26","Sinaloa",NULL
+"154","27","Sonora",NULL
+"154","28","Tabasco",NULL
+"154","29","Tamaulipas",NULL
+"154","30","Veracruz",NULL
+"154","31","Veracruz-Llave",NULL
+"154","32","Yucatßn",NULL
+"154","33","Zacatecas",NULL
+"155","01","Chuuk",NULL
+"155","02","Pohnpei",NULL
+"156","01","Balti",NULL
+"156","02","Bender (T¯ghina)",NULL
+"156","03","Chisinau",NULL
+"156","04","Dnjestria",NULL
+"158","01","Ulaanbaatar",NULL
+"159","01","Plymouth",NULL
+"160","01","Casablanca",NULL
+"160","02","Chaouia-Ouardigha",NULL
+"160","03","Doukkala-Abda",NULL
+"160","04","FÞs-Boulemane",NULL
+"160","05","Gharb-Chrarda-BÚni H",NULL
+"160","06","Marrakech-Tensift-Al",NULL
+"160","07","MeknÞs-Tafilalet",NULL
+"160","08","Oriental",NULL
+"160","09","Rabat-SalÚ-Zammour-Z",NULL
+"160","10","Souss Massa-DraÔ",NULL
+"160","11","Tadla-Azilal",NULL
+"160","12","Tanger-TÚtouan",NULL
+"160","13","Taza-Al Hoceima-Taou",NULL
+"161","01","Gaza",NULL
+"161","02","Inhambane",NULL
+"161","03","Manica",NULL
+"161","04","Maputo",NULL
+"161","05","Nampula",NULL
+"161","06","Sofala",NULL
+"161","07","Tete",NULL
+"161","08","ZambÚzia",NULL
+"162","01","Khomas",NULL
+"165","01","Central",NULL
+"165","02","Eastern",NULL
+"165","03","Western",NULL
+"166","01","Drenthe",NULL
+"166","02","Flevoland",NULL
+"166","03","Gelderland",NULL
+"166","04","Groningen",NULL
+"166","05","Limburg",NULL
+"166","06","Noord-Brabant",NULL
+"166","07","Noord-Holland",NULL
+"166","08","Overijssel",NULL
+"166","09","Utrecht",NULL
+"166","10","Zuid-Holland",NULL
+"167","01","Curaþao",NULL
+"168","01","South Province",NULL
+"168","02","North Province",NULL
+"168","03","Loyalty Islands Province",NULL
+"169","01","Auckland",NULL
+"169","02","Canterbury",NULL
+"169","03","Dunedin",NULL
+"169","04","Hamilton",NULL
+"169","05","Wellington",NULL
+"170","01","Chinandega",NULL
+"170","02","Le¾n",NULL
+"170","03","Managua",NULL
+"170","04","Masaya",NULL
+"171","01","Maradi",NULL
+"171","02","Niamey",NULL
+"171","03","Zinder",NULL
+"172","01","Anambra & Enugu & Eb",NULL
+"172","02","Bauchi & Gombe",NULL
+"172","03","Benue",NULL
+"172","04","Borno & Yobe",NULL
+"172","05","Cross River",NULL
+"172","06","Edo & Delta",NULL
+"172","07","Federal Capital Dist",NULL
+"172","08","Imo & Abia",NULL
+"172","09","Kaduna",NULL
+"172","10","Kano & Jigawa",NULL
+"172","11","Katsina",NULL
+"172","12","Kwara & Kogi",NULL
+"172","13","Lagos",NULL
+"172","14","Niger",NULL
+"172","15","Ogun",NULL
+"172","16","Ondo & Ekiti",NULL
+"172","17","Oyo & Osun",NULL
+"172","18","Plateau & Nassarawa",NULL
+"172","19","Rivers & Bayelsa",NULL
+"172","20","Sokoto & Kebbi & Zam",NULL
+"175","01","Saipan",NULL
+"176","01","Akershus",NULL
+"176","02","Hordaland",NULL
+"176","03","Oslo",NULL
+"176","04","Rogaland",NULL
+"176","05","S°r-Tr°ndelag",NULL
+"177","01","al-Batina",NULL
+"177","02","Masqat",NULL
+"177","03","Zufar",NULL
+"178","01","Baluchistan",NULL
+"178","02","Islamabad",NULL
+"178","03","Nothwest Border Prov",NULL
+"178","04","Punjab",NULL
+"178","05","Sind",NULL
+"178","06","Sindh",NULL
+"179","01","Koror",NULL
+"180","01","Panamß",NULL
+"180","02","San Miguelito",NULL
+"181","01","National Capital Dis",NULL
+"183","01","Alto Paranß",NULL
+"183","02","Asunci¾n",NULL
+"183","03","Central",NULL
+"184","01","Ancash",NULL
+"184","02","Arequipa",NULL
+"184","03","Ayacucho",NULL
+"184","04","Cajamarca",NULL
+"184","05","Callao",NULL
+"184","06","Cusco",NULL
+"184","07","Huanuco",NULL
+"184","08","Ica",NULL
+"184","09","JunÝn",NULL
+"184","10","La Libertad",NULL
+"184","11","Lambayeque",NULL
+"184","12","Lima",NULL
+"184","13","Loreto",NULL
+"184","14","Piura",NULL
+"184","15","Puno",NULL
+"184","16","Tacna",NULL
+"184","17","Ucayali",NULL
+"185","01","ARMM",NULL
+"185","02","Bicol",NULL
+"185","03","Cagayan Valley",NULL
+"185","04","CAR",NULL
+"185","05","Caraga",NULL
+"185","06","Central Luzon",NULL
+"185","07","Central Mindanao",NULL
+"185","08","Central Visayas",NULL
+"185","09","Eastern Visayas",NULL
+"185","10","Ilocos",NULL
+"185","11","National Capital Reg",NULL
+"185","12","Northern Mindanao",NULL
+"185","13","Southern Mindanao",NULL
+"185","14","Southern Tagalog",NULL
+"185","15","Western Mindanao",NULL
+"185","16","Western Visayas",NULL
+"187","01","Dolnoslaskie",NULL
+"187","02","Kujawsko-Pomorskie",NULL
+"187","03","Lodzkie",NULL
+"187","04","Lubelskie",NULL
+"187","05","Lubuskie",NULL
+"187","06","Malopolskie",NULL
+"187","07","Mazowieckie",NULL
+"187","08","Opolskie",NULL
+"187","09","Podkarpackie",NULL
+"187","10","Podlaskie",NULL
+"187","11","Pomorskie",NULL
+"187","12","Slaskie",NULL
+"187","13","Swietokrzyskie",NULL
+"187","14","Warminsko-Mazurskie",NULL
+"187","15","Wielkopolskie",NULL
+"187","16","Zachodnio-Pomorskie",NULL
+"188","01","Braga",NULL
+"188","02","CoÝmbra",NULL
+"188","03","Lisboa",NULL
+"188","04","Porto",NULL
+"189","01","Arecibo",NULL
+"189","02","Bayam¾n",NULL
+"189","03","Caguas",NULL
+"189","04","Carolina",NULL
+"189","05","Guaynabo",NULL
+"189","06","Mayag³ez",NULL
+"189","07","Ponce",NULL
+"189","08","San Juan",NULL
+"189","09","Toa Baja",NULL
+"190","01","Doha",NULL
+"191","01","Saint-Denis",NULL
+"192","01","Arad",NULL
+"192","02","Arges",NULL
+"192","03","Bacau",NULL
+"192","04","Bihor",NULL
+"192","05","Botosani",NULL
+"192","06","Braila",NULL
+"192","07","Brasov",NULL
+"192","08","Bukarest",NULL
+"192","09","Buzau",NULL
+"192","10","Caras-Severin",NULL
+"192","11","Cluj",NULL
+"192","12","Constanta",NULL
+"192","13","DÔmbovita",NULL
+"192","14","Dolj",NULL
+"192","15","Galati",NULL
+"192","16","Gorj",NULL
+"192","17","Iasi",NULL
+"192","18","Maramures",NULL
+"192","19","Mehedinti",NULL
+"192","20","Mures",NULL
+"192","21","Neamt",NULL
+"192","22","Prahova",NULL
+"192","23","Satu Mare",NULL
+"192","24","Sibiu",NULL
+"192","25","Suceava",NULL
+"192","26","Timis",NULL
+"192","27","Tulcea",NULL
+"192","28","VÔlcea",NULL
+"192","29","Vrancea",NULL
+"193","01","Adygea",NULL
+"193","02","Altai",NULL
+"193","03","Amur",NULL
+"193","04","Arkangeli",NULL
+"193","05","Astrahan",NULL
+"193","06","BaÜkortostan",NULL
+"193","07","Belgorod",NULL
+"193","08","Brjansk",NULL
+"193","09","Burjatia",NULL
+"193","10","Dagestan",NULL
+"193","11","Habarovsk",NULL
+"193","12","Hakassia",NULL
+"193","13","Hanti-Mansia",NULL
+"193","14","Irkutsk",NULL
+"193","15","Ivanovo",NULL
+"193","16","Jaroslavl",NULL
+"193","17","Kabardi-Balkaria",NULL
+"193","18","Kaliningrad",NULL
+"193","19","Kalmykia",NULL
+"193","20","Kaluga",NULL
+"193","21","KamtÜatka",NULL
+"193","22","KaratÜai-TÜerkessia",NULL
+"193","23","Karjala",NULL
+"193","24","Kemerovo",NULL
+"193","25","Kirov",NULL
+"193","26","Komi",NULL
+"193","27","Kostroma",NULL
+"193","28","Krasnodar",NULL
+"193","29","Krasnojarsk",NULL
+"193","30","Kurgan",NULL
+"193","31","Kursk",NULL
+"193","32","Lipetsk",NULL
+"193","33","Magadan",NULL
+"193","34","Marinmaa",NULL
+"193","35","Mordva",NULL
+"193","36","Moscow (City)",NULL
+"193","37","Moskova",NULL
+"193","38","Murmansk",NULL
+"193","39","Nizni Novgorod",NULL
+"193","40","North Ossetia-Alania",NULL
+"193","41","Novgorod",NULL
+"193","42","Novosibirsk",NULL
+"193","43","Omsk",NULL
+"193","44","Orenburg",NULL
+"193","45","Orjol",NULL
+"193","46","Penza",NULL
+"193","47","Perm",NULL
+"193","48","Pietari",NULL
+"193","49","Pihkova",NULL
+"193","50","Primorje",NULL
+"193","51","Rjazan",NULL
+"193","52","Rostov-na-Donu",NULL
+"193","53","Saha (Jakutia)",NULL
+"193","54","Sahalin",NULL
+"193","55","Samara",NULL
+"193","56","Saratov",NULL
+"193","57","Smolensk",NULL
+"193","58","Stavropol",NULL
+"193","59","Sverdlovsk",NULL
+"193","60","Tambov",NULL
+"193","61","Tatarstan",NULL
+"193","62","Tjumen",NULL
+"193","63","Tomsk",NULL
+"193","64","TÜeljabinsk",NULL
+"193","65","TÜetÜenia",NULL
+"193","66","TÜita",NULL
+"193","67","TÜuvassia",NULL
+"193","68","Tula",NULL
+"193","69","Tver",NULL
+"193","70","Tyva",NULL
+"193","71","Udmurtia",NULL
+"193","72","Uljanovsk",NULL
+"193","73","Vladimir",NULL
+"193","74","Volgograd",NULL
+"193","75","Vologda",NULL
+"193","76","Voronez",NULL
+"193","77","Yamalin Nenetsia",NULL
+"194","01","Kigali",NULL
+"195","01","Saint Helena",NULL
+"196","01","St George Basseterre",NULL
+"197","01","Castries",NULL
+"198","01","Saint-Pierre",NULL
+"199","01","St George",NULL
+"200","01","Upolu",NULL
+"201","01","San Marino",NULL
+"201","02","Serravalle/Dogano",NULL
+"202","01","Aqua Grande",NULL
+"203","01","al-Khudud al-Samaliy",NULL
+"203","02","al-Qasim",NULL
+"203","03","al-Sharqiya",NULL
+"203","04","Asir",NULL
+"203","05","Hail",NULL
+"203","06","Medina",NULL
+"203","07","Mekka",NULL
+"203","08","Najran",NULL
+"203","09","Qasim",NULL
+"203","10","Riad",NULL
+"203","11","Riyadh",NULL
+"203","12","Tabuk",NULL
+"204","01","Cap-Vert",NULL
+"204","02","Diourbel",NULL
+"204","03","Kaolack",NULL
+"204","04","Saint-Louis",NULL
+"204","05","ThiÞs",NULL
+"204","06","Ziguinchor",NULL
+"206","01","MahÚ",NULL
+"207","01","Western",NULL
+"209","01","Bratislava",NULL
+"209","02","V²chodnÚ Slovensko",NULL
+"210","01","Osrednjeslovenska",NULL
+"210","02","Podravska",NULL
+"211","01","Honiara",NULL
+"212","01","Banaadir",NULL
+"212","02","Jubbada Hoose",NULL
+"212","03","Woqooyi Galbeed",NULL
+"213","01","Eastern Cape",NULL
+"213","02","Free State",NULL
+"213","03","Gauteng",NULL
+"213","04","KwaZulu-Natal",NULL
+"213","05","Mpumalanga",NULL
+"213","06","North West",NULL
+"213","07","Northern Cape",NULL
+"213","08","Western Cape",NULL
+"215","01","Andalusia",NULL
+"215","02","Aragonia",NULL
+"215","03","Asturia",NULL
+"215","04","Balears",NULL
+"215","05","Baskimaa",NULL
+"215","06","Canary Islands",NULL
+"215","07","Cantabria",NULL
+"215","08","Castilla and Le¾n",NULL
+"215","09","Extremadura",NULL
+"215","10","Galicia",NULL
+"215","11","Kastilia-La Mancha",NULL
+"215","12","Katalonia",NULL
+"215","13","La Rioja",NULL
+"215","14","Madrid",NULL
+"215","15","Murcia",NULL
+"215","16","Navarra",NULL
+"215","17","Valencia",NULL
+"217","01","Central",NULL
+"217","02","Northern",NULL
+"217","03","Western",NULL
+"218","01","al-Bahr al-Abyad",NULL
+"218","02","al-Bahr al-Ahmar",NULL
+"218","03","al-Jazira",NULL
+"218","04","al-Qadarif",NULL
+"218","05","Bahr al-Jabal",NULL
+"218","06","Darfur al-Janubiya",NULL
+"218","07","Darfur al-Shamaliya",NULL
+"218","08","Kassala",NULL
+"218","09","Khartum",NULL
+"218","10","Kurdufan al-Shamaliy",NULL
+"219","01","Paramaribo",NULL
+"220","01","Lõnsimaa",NULL
+"221","01","Hhohho",NULL
+"222","01","East G÷tanmaan lõn",NULL
+"222","02","Gõvleborgs lõn",NULL
+"222","03","J÷nk÷pings lõn",NULL
+"222","04","Lisboa",NULL
+"222","05","Írebros lõn",NULL
+"222","06","SkÕne lõn",NULL
+"222","07","Uppsala lõn",NULL
+"222","08","Võsterbottens lõn",NULL
+"222","09","Võsternorrlands lõn",NULL
+"222","10","Võstmanlands lõn",NULL
+"222","11","West G÷tanmaan lõn",NULL
+"223","01","Basel-Stadt",NULL
+"223","02","Bern",NULL
+"223","03","Geneve",NULL
+"223","04","Vaud",NULL
+"223","05","Z³rich",NULL
+"224","01","Aleppo",NULL
+"224","02","al-Hasaka",NULL
+"224","03","al-Raqqa",NULL
+"224","04","Damascus",NULL
+"224","05","Damaskos",NULL
+"224","06","Dayr al-Zawr",NULL
+"224","07","Hama",NULL
+"224","08","Hims",NULL
+"224","09","Idlib",NULL
+"224","10","Latakia",NULL
+"225","01","Changhwa",NULL
+"225","02","Chiayi",NULL
+"225","03","Hsinchu",NULL
+"225","04","Hualien",NULL
+"225","05","Ilan",NULL
+"225","06","Kaohsiung",NULL
+"225","07","Keelung",NULL
+"225","08","Miaoli",NULL
+"225","09","Nantou",NULL
+"225","10","Pingtung",NULL
+"225","11","Taichung",NULL
+"225","12","Tainan",NULL
+"225","13","Taipei",NULL
+"225","14","Taitung",NULL
+"225","15","Taoyuan",NULL
+"225","16","Y³nlin",NULL
+"226","01","Karotegin",NULL
+"226","02","Khujand",NULL
+"227","01","Arusha",NULL
+"227","02","Dar es Salaam",NULL
+"227","03","Dodoma",NULL
+"227","04","Kilimanjaro",NULL
+"227","05","Mbeya",NULL
+"227","06","Morogoro",NULL
+"227","07","Mwanza",NULL
+"227","08","Tabora",NULL
+"227","09","Tanga",NULL
+"227","10","Zanzibar West",NULL
+"228","01","Bangkok",NULL
+"228","02","Chiang Mai",NULL
+"228","03","Khon Kaen",NULL
+"228","04","Nakhon Pathom",NULL
+"228","05","Nakhon Ratchasima",NULL
+"228","06","Nakhon Sawan",NULL
+"228","07","Nonthaburi",NULL
+"228","08","Songkhla",NULL
+"228","09","Ubon Ratchathani",NULL
+"228","10","Udon Thani",NULL
+"230","01","Maritime",NULL
+"231","01","Fakaofo",NULL
+"232","01","Tongatapu",NULL
+"233","01","Caroni",NULL
+"233","02","Port-of-Spain",NULL
+"235","01","Ariana",NULL
+"235","02","Biserta",NULL
+"235","03","GabÞs",NULL
+"235","04","Kairouan",NULL
+"235","05","Sfax",NULL
+"235","06","Sousse",NULL
+"235","07","Tunis",NULL
+"236","01","Adana",NULL
+"236","02","Adiyaman",NULL
+"236","03","Afyon",NULL
+"236","04","Aksaray",NULL
+"236","05","Ankara",NULL
+"236","06","Antalya",NULL
+"236","07","Aydin",NULL
+"236","08","Balikesir",NULL
+"236","09","Batman",NULL
+"236","10","Bursa",NULL
+"236","11","Ãorum",NULL
+"236","12","Denizli",NULL
+"236","13","Diyarbakir",NULL
+"236","14","Edirne",NULL
+"236","15","ElÔzig",NULL
+"236","16","Erzincan",NULL
+"236","17","Erzurum",NULL
+"236","18","Eskisehir",NULL
+"236","19","Gaziantep",NULL
+"236","20","Hatay",NULL
+"236","21","Iþel",NULL
+"236","22","Isparta",NULL
+"236","23","Istanbul",NULL
+"236","24","Izmir",NULL
+"236","25","Kahramanmaras",NULL
+"236","26","Karab³k",NULL
+"236","27","Karaman",NULL
+"236","28","Kars",NULL
+"236","29","Kayseri",NULL
+"236","30","Kilis",NULL
+"236","31","Kirikkale",NULL
+"236","32","Kocaeli",NULL
+"236","33","Konya",NULL
+"236","34","K³tahya",NULL
+"236","35","Malatya",NULL
+"236","36","Manisa",NULL
+"236","37","Mardin",NULL
+"236","38","Ordu",NULL
+"236","39","Osmaniye",NULL
+"236","40","Sakarya",NULL
+"236","41","Samsun",NULL
+"236","42","Sanliurfa",NULL
+"236","43","Siirt",NULL
+"236","44","Sivas",NULL
+"236","45","Tekirdag",NULL
+"236","46","Tokat",NULL
+"236","47","Trabzon",NULL
+"236","48","Usak",NULL
+"236","49","Van",NULL
+"236","50","Zonguldak",NULL
+"237","01","Ahal",NULL
+"237","02","Dashhowuz",NULL
+"237","03","Lebap",NULL
+"237","04","Mary",NULL
+"238","01","Grand Turk",NULL
+"239","01","Funafuti",NULL
+"240","01","Central",NULL
+"241","01","Dnipropetrovsk",NULL
+"241","02","Donetsk",NULL
+"241","03","Harkova",NULL
+"241","04","Herson",NULL
+"241","05","Hmelnytskyi",NULL
+"241","06","Ivano-Frankivsk",NULL
+"241","07","Kiova",NULL
+"241","08","Kirovograd",NULL
+"241","09","Krim",NULL
+"241","10","Lugansk",NULL
+"241","11","Lviv",NULL
+"241","12","Mykolajiv",NULL
+"241","13","Odesa",NULL
+"241","14","Pultava",NULL
+"241","15","Rivne",NULL
+"241","16","Sumy",NULL
+"241","17","Taka-Karpatia",NULL
+"241","18","Ternopil",NULL
+"241","19","TÜerkasy",NULL
+"241","20","TÜernigiv",NULL
+"241","21","TÜernivtsi",NULL
+"241","22","Vinnytsja",NULL
+"241","23","Volynia",NULL
+"241","24","Zaporizzja",NULL
+"241","25","Zytomyr",NULL
+"242","01","Abu Dhabi",NULL
+"242","02","Ajman",NULL
+"242","03","Dubai",NULL
+"242","04","Sharja",NULL
+"243","01","England",NULL
+"243","02","Jersey",NULL
+"243","03","North Ireland",NULL
+"243","04","Scotland",NULL
+"243","05","Wales",NULL
+"244","01","Alabama",NULL
+"244","02","Alaska",NULL
+"244","03","Arizona",NULL
+"244","04","Arkansas",NULL
+"244","05","California",NULL
+"244","06","Colorado",NULL
+"244","07","Connecticut",NULL
+"244","08","Delaware",NULL
+"244","09","District of Columbia",NULL
+"244","10","Florida",NULL
+"244","11","Georgia",NULL
+"244","12","Hawaii",NULL
+"244","13","Idaho",NULL
+"244","14","Illinois",NULL
+"244","15","Indiana",NULL
+"244","16","Iowa",NULL
+"244","17","Kansas",NULL
+"244","18","Kentucky",NULL
+"244","19","Louisiana",NULL
+"244","20","Maine",NULL
+"244","21","Maryland",NULL
+"244","22","Massachusetts",NULL
+"244","23","Michigan",NULL
+"244","24","Minnesota",NULL
+"244","25","Mississippi",NULL
+"244","26","Missouri",NULL
+"244","27","Montana",NULL
+"244","28","Nebraska",NULL
+"244","29","Nevada",NULL
+"244","30","New Hampshire",NULL
+"244","31","New Jersey",NULL
+"244","32","New Mexico",NULL
+"244","33","New York",NULL
+"244","34","North Carolina",NULL
+"244","35","North Dakota",NULL
+"244","36","Ohio",NULL
+"244","37","Oklahoma",NULL
+"244","38","Oregon",NULL
+"244","39","Pennsylvania",NULL
+"244","40","Rhode Island",NULL
+"244","41","South Carolina",NULL
+"244","42","South Dakota",NULL
+"244","43","Tennessee",NULL
+"244","44","Texas",NULL
+"244","45","Utah",NULL
+"244","46","Vermont",NULL
+"244","47","Virginia",NULL
+"244","48","Washington",NULL
+"244","49","West Virginia",NULL
+"244","50","Wisconsin",NULL
+"244","51","Wyoming",NULL
+"245","01","Montevideo",NULL
+"246","01","Andijon",NULL
+"246","02","Buhoro",NULL
+"246","03","Cizah",NULL
+"246","04","Fargona",NULL
+"246","05","Karakalpakistan",NULL
+"246","06","Khorazm",NULL
+"246","07","Namangan",NULL
+"246","08","Navoi",NULL
+"246","09","Qashqadaryo",NULL
+"246","10","Samarkand",NULL
+"246","11","Surkhondaryo",NULL
+"246","12","Toskent",NULL
+"246","13","Toskent Shahri",NULL
+"247","01","Shefa",NULL
+"248","01","Anzoßtegui",NULL
+"248","02","Apure",NULL
+"248","03","Aragua",NULL
+"248","04","Barinas",NULL
+"248","05","BolÝvar",NULL
+"248","06","Carabobo",NULL
+"248","07","Distrito Federal",NULL
+"248","08","Falc¾n",NULL
+"248","09","Gußrico",NULL
+"248","10","Lara",NULL
+"248","11","MÚrida",NULL
+"248","12","Miranda",NULL
+"248","13","Monagas",NULL
+"248","14","Portuguesa",NULL
+"248","15","Sucre",NULL
+"248","16","Tßchira",NULL
+"248","17","Trujillo",NULL
+"248","18","Yaracuy",NULL
+"248","19","Zulia",NULL
+"249","01","An Giang",NULL
+"249","02","Ba Ria-Vung Tau",NULL
+"249","03","Bac Thai",NULL
+"249","04","Binh Dinh",NULL
+"249","05","Binh Thuan",NULL
+"249","06","Can Tho",NULL
+"249","07","Dac Lac",NULL
+"249","08","Dong Nai",NULL
+"249","09","Haiphong",NULL
+"249","10","Hanoi",NULL
+"249","11","Ho Chi Minh City",NULL
+"249","12","Khanh Hoa",NULL
+"249","13","Kien Giang",NULL
+"249","14","Lam Dong",NULL
+"249","15","Nam Ha",NULL
+"249","16","Nghe An",NULL
+"249","17","Quang Binh",NULL
+"249","18","Quang Nam-Da Nang",NULL
+"249","19","Quang Ninh",NULL
+"249","20","Thua Thien-Hue",NULL
+"249","21","Tien Giang",NULL
+"250","01","St Thomas",NULL
+"252","01","Wallis",NULL
+"254","01","El-Aai·n",NULL
+"255","01","Aden",NULL
+"255","02","Hadramawt",NULL
+"255","03","Hodeida",NULL
+"255","04","Ibb",NULL
+"255","05","Sanaa",NULL
+"255","06","Taizz",NULL
+"256","01","Central",NULL
+"256","02","Copperbelt",NULL
+"256","03","Lusaka",NULL
+"257","01","Bulawayo",NULL
+"257","02","Harare",NULL
+"257","03","Manicaland",NULL
+"257","04","Midlands",NULL

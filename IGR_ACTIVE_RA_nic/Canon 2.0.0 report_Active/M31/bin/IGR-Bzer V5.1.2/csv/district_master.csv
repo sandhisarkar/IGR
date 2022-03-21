@@ -1,0 +1,621 @@
+"020","03","01","Dhaka",NULL,NULL
+"111","01","01","Kupwara",NULL,NULL
+"111","01","02","Baramula",NULL,NULL
+"111","01","03","Srinagar",NULL,NULL
+"111","01","04","Badgam",NULL,NULL
+"111","01","05","Pulwama",NULL,NULL
+"111","01","06","Anantnag",NULL,NULL
+"111","01","07","Leh (Ladakh)",NULL,NULL
+"111","01","08","Kargil",NULL,NULL
+"111","01","09","Doda",NULL,NULL
+"111","01","10","Udhampur",NULL,NULL
+"111","01","11","Punch",NULL,NULL
+"111","01","12","Rajauri",NULL,NULL
+"111","01","13","Jammu",NULL,NULL
+"111","01","14","Kathua",NULL,NULL
+"111","01","15","REASI",NULL,NULL
+"111","01","16","RAMBAN",NULL,NULL
+"111","01","17","KULGAM",NULL,NULL
+"111","02","01","Chamba",NULL,NULL
+"111","02","02","Kangra",NULL,NULL
+"111","02","03","Lahul & Spiti",NULL,NULL
+"111","02","04","Kullu",NULL,NULL
+"111","02","05","Mandi",NULL,NULL
+"111","02","06","Hamirpur",NULL,NULL
+"111","02","07","Una",NULL,NULL
+"111","02","08","Bilaspur",NULL,NULL
+"111","02","09","Solan",NULL,NULL
+"111","02","10","Sirmaur",NULL,NULL
+"111","02","11","Shimla",NULL,NULL
+"111","02","12","Kinnaur",NULL,NULL
+"111","03","01","Gurdaspur",NULL,NULL
+"111","03","02","Amritsar",NULL,NULL
+"111","03","03","Kapurthala",NULL,NULL
+"111","03","04","Jalandhar",NULL,NULL
+"111","03","05","Hoshiarpur",NULL,NULL
+"111","03","06","Nawanshahr",NULL,NULL
+"111","03","07","Rupnagar",NULL,NULL
+"111","03","08","Fatehgarh Sahib",NULL,NULL
+"111","03","09","Ludhiana",NULL,NULL
+"111","03","10","Moga",NULL,NULL
+"111","03","11","Firozpur",NULL,NULL
+"111","03","12","Muktsar",NULL,NULL
+"111","03","13","Faridkot",NULL,NULL
+"111","03","14","Bathinda",NULL,NULL
+"111","03","15","Mansa",NULL,NULL
+"111","03","16","Sangrur",NULL,NULL
+"111","03","17","Patiala",NULL,NULL
+"111","03","18","SAS Nagar",NULL,NULL
+"111","03","19","TARNTARAN",NULL,NULL
+"111","04","01","Chandigarh",NULL,NULL
+"111","05","01","Uttarkashi",NULL,NULL
+"111","05","02","Chamoli",NULL,NULL
+"111","05","03","Rudraprayag",NULL,NULL
+"111","05","04","Tehri Garhwal",NULL,NULL
+"111","05","05","Dehradun",NULL,NULL
+"111","05","06","Garhwal",NULL,NULL
+"111","05","07","Pithoragarh",NULL,NULL
+"111","05","08","Bageshwar",NULL,NULL
+"111","05","09","Almora",NULL,NULL
+"111","05","10","Champawat",NULL,NULL
+"111","05","11","Nainital",NULL,NULL
+"111","05","12","Udham Singh Nagar",NULL,NULL
+"111","05","13","Hardwar",NULL,NULL
+"111","06","01","Panchkula",NULL,NULL
+"111","06","02","Ambala",NULL,NULL
+"111","06","03","Yamunanagar",NULL,NULL
+"111","06","04","Kurukshetra",NULL,NULL
+"111","06","05","Kaithal",NULL,NULL
+"111","06","06","Karnal",NULL,NULL
+"111","06","07","Panipat",NULL,NULL
+"111","06","08","Sonipat",NULL,NULL
+"111","06","09","Jind",NULL,NULL
+"111","06","10","Fatehabad",NULL,NULL
+"111","06","11","Sirsa",NULL,NULL
+"111","06","12","Hisar",NULL,NULL
+"111","06","13","Bhiwani",NULL,NULL
+"111","06","14","Rohtak",NULL,NULL
+"111","06","15","Jhajjar",NULL,NULL
+"111","06","16","Mahendragarh",NULL,NULL
+"111","06","17","Rewari",NULL,NULL
+"111","06","18","Gurgaon",NULL,NULL
+"111","06","19","Faridabad",NULL,NULL
+"111","06","21","PALWAL",NULL,NULL
+"111","06","22","Mewat",NULL,NULL
+"111","07","01","North",NULL,NULL
+"111","07","02","North",NULL,NULL
+"111","07","03","North East",NULL,NULL
+"111","07","04","East",NULL,NULL
+"111","07","05","New Delhi",NULL,NULL
+"111","07","06","Central",NULL,NULL
+"111","07","07","West",NULL,NULL
+"111","07","08","South West",NULL,NULL
+"111","07","09","South",NULL,NULL
+"111","08","01","Ganganagar",NULL,NULL
+"111","08","02","Hanumangarh",NULL,NULL
+"111","08","03","Bikaner",NULL,NULL
+"111","08","04","Churu",NULL,NULL
+"111","08","05","Jhunjhunun",NULL,NULL
+"111","08","06","Alwar",NULL,NULL
+"111","08","07","Bharatpur",NULL,NULL
+"111","08","08","Dhaulpur",NULL,NULL
+"111","08","09","Karauli",NULL,NULL
+"111","08","10","Sawai Madhopur",NULL,NULL
+"111","08","11","Dausa",NULL,NULL
+"111","08","12","Jaipur",NULL,NULL
+"111","08","13","Sikar",NULL,NULL
+"111","08","14","Nagaur",NULL,NULL
+"111","08","15","Jodhpur",NULL,NULL
+"111","08","16","Jaisalmer",NULL,NULL
+"111","08","17","Barmer",NULL,NULL
+"111","08","18","Jalor",NULL,NULL
+"111","08","19","Sirohi",NULL,NULL
+"111","08","20","Pali",NULL,NULL
+"111","08","21","Ajmer",NULL,NULL
+"111","08","22","Tonk",NULL,NULL
+"111","08","23","Bundi",NULL,NULL
+"111","08","24","Bhilwara",NULL,NULL
+"111","08","25","Rajsamand",NULL,NULL
+"111","08","26","Udaipur",NULL,NULL
+"111","08","27","Dungarpur",NULL,NULL
+"111","08","28","Banswara",NULL,NULL
+"111","08","29","Chittaurgarh",NULL,NULL
+"111","08","30","Kota",NULL,NULL
+"111","08","31","Baran",NULL,NULL
+"111","08","32","Jhalawar",NULL,NULL
+"111","08","34","PRATAPGARH",NULL,NULL
+"111","09","01","Saharanpur",NULL,NULL
+"111","09","02","Muzaffarnagar",NULL,NULL
+"111","09","03","Bijnor",NULL,NULL
+"111","09","04","Moradabad",NULL,NULL
+"111","09","05","Rampur",NULL,NULL
+"111","09","06","Jyotiba Phule Nagar",NULL,NULL
+"111","09","07","Meerut",NULL,NULL
+"111","09","08","Baghpat",NULL,NULL
+"111","09","09","Ghaziabad",NULL,NULL
+"111","09","10","Gautam Buddha Nagar",NULL,NULL
+"111","09","11","Bulandshahr",NULL,NULL
+"111","09","12","Aligarh",NULL,NULL
+"111","09","13","Hathras",NULL,NULL
+"111","09","14","Mathura",NULL,NULL
+"111","09","15","Agra",NULL,NULL
+"111","09","16","Firozabad",NULL,NULL
+"111","09","17","Etah",NULL,NULL
+"111","09","18","Mainpuri",NULL,NULL
+"111","09","19","Budaun",NULL,NULL
+"111","09","20","Bareilly",NULL,NULL
+"111","09","21","Pilibhit",NULL,NULL
+"111","09","22","Shahjahanpur",NULL,NULL
+"111","09","23","Kheri",NULL,NULL
+"111","09","24","Sitapur",NULL,NULL
+"111","09","25","Hardoi",NULL,NULL
+"111","09","26","Unnao",NULL,NULL
+"111","09","27","Lucknow",NULL,NULL
+"111","09","28","Rae Bareli",NULL,NULL
+"111","09","29","Farrukhabad",NULL,NULL
+"111","09","30","Kannauj",NULL,NULL
+"111","09","31","Etawah",NULL,NULL
+"111","09","32","Auraiya",NULL,NULL
+"111","09","33","Kanpur Dehat",NULL,NULL
+"111","09","34","Kanpur Nagar",NULL,NULL
+"111","09","35","Jalaun",NULL,NULL
+"111","09","36","Jhansi",NULL,NULL
+"111","09","37","Lalitpur",NULL,NULL
+"111","09","38","Hamirpur",NULL,NULL
+"111","09","39","Mahoba",NULL,NULL
+"111","09","40","Banda",NULL,NULL
+"111","09","41","Chitrakoot",NULL,NULL
+"111","09","42","Fatehpur",NULL,NULL
+"111","09","43","Pratapgarh",NULL,NULL
+"111","09","44","Kaushambi",NULL,NULL
+"111","09","45","Allahabad",NULL,NULL
+"111","09","46","Barabanki",NULL,NULL
+"111","09","47","Faizabad",NULL,NULL
+"111","09","48","Ambedkar Nagar",NULL,NULL
+"111","09","49","Sultanpur",NULL,NULL
+"111","09","50","Bahraich",NULL,NULL
+"111","09","51","Shrawasti",NULL,NULL
+"111","09","52","Balrampur",NULL,NULL
+"111","09","53","Gonda",NULL,NULL
+"111","09","54","Siddharthnagar",NULL,NULL
+"111","09","55","Basti",NULL,NULL
+"111","09","56","Sant Kabir Nagar",NULL,NULL
+"111","09","57","Maharajganj",NULL,NULL
+"111","09","58","Gorakhpur",NULL,NULL
+"111","09","59","Kushinagar",NULL,NULL
+"111","09","60","Deoria",NULL,NULL
+"111","09","61","Azamgarh",NULL,NULL
+"111","09","62","Mau",NULL,NULL
+"111","09","63","Ballia",NULL,NULL
+"111","09","64","Jaunpur",NULL,NULL
+"111","09","65","Ghazipur",NULL,NULL
+"111","09","66","Chandauli",NULL,NULL
+"111","09","67","Varanasi",NULL,NULL
+"111","09","68","Sant Ravidas Nagar Bhadohi",NULL,NULL
+"111","09","69","Mirzapur",NULL,NULL
+"111","09","70","Sonbhadra",NULL,NULL
+"111","09","72","JYOTIBAPHULLEYNAGAR",NULL,NULL
+"111","10","01","Pashchim Champaran",NULL,NULL
+"111","10","02","Purba Champaran",NULL,NULL
+"111","10","03","Sheohar",NULL,NULL
+"111","10","04","Sitamarhi",NULL,NULL
+"111","10","05","Madhubani",NULL,NULL
+"111","10","06","Supaul",NULL,NULL
+"111","10","07","Araria",NULL,NULL
+"111","10","08","Kishanganj",NULL,NULL
+"111","10","09","Purnia",NULL,NULL
+"111","10","10","Katihar",NULL,NULL
+"111","10","11","Madhepura",NULL,NULL
+"111","10","12","Saharsa",NULL,NULL
+"111","10","13","Darbhanga",NULL,NULL
+"111","10","14","Muzaffarpur",NULL,NULL
+"111","10","15","Gopalganj",NULL,NULL
+"111","10","16","Siwan",NULL,NULL
+"111","10","17","Saran",NULL,NULL
+"111","10","18","Vaishali",NULL,NULL
+"111","10","19","Samastipur",NULL,NULL
+"111","10","20","Begusarai",NULL,NULL
+"111","10","21","Khagaria",NULL,NULL
+"111","10","22","Bhagalpur",NULL,NULL
+"111","10","23","Banka",NULL,NULL
+"111","10","24","Munger",NULL,NULL
+"111","10","25","Lakhisarai",NULL,NULL
+"111","10","26","Sheikhpura",NULL,NULL
+"111","10","27","Nalanda",NULL,NULL
+"111","10","28","Patna",NULL,NULL
+"111","10","29","Bhojpur",NULL,NULL
+"111","10","30","Buxar",NULL,NULL
+"111","10","31","Kaimur (Bhabua)",NULL,NULL
+"111","10","32","Rohtas",NULL,NULL
+"111","10","33","Jehanabad",NULL,NULL
+"111","10","34","Aurangabad",NULL,NULL
+"111","10","35","Gaya",NULL,NULL
+"111","10","36","Nawada",NULL,NULL
+"111","10","37","Jamui",NULL,NULL
+"111","10","38","Chapra",NULL,NULL
+"111","11","01","North",NULL,NULL
+"111","11","02","West",NULL,NULL
+"111","11","03","South",NULL,NULL
+"111","11","04","East",NULL,NULL
+"111","12","01","Lower Dibang",NULL,NULL
+"111","12","02","Tawang",NULL,NULL
+"111","12","03","East Kameng",NULL,NULL
+"111","12","04","Papum Pare",NULL,NULL
+"111","12","05","Lower Subansiri",NULL,NULL
+"111","12","06","Upper Subansiri",NULL,NULL
+"111","12","07","West Siang",NULL,NULL
+"111","12","08","East Siang",NULL,NULL
+"111","12","09","Upper Siang",NULL,NULL
+"111","12","10","Dibang Valley",NULL,NULL
+"111","12","11","Lohit",NULL,NULL
+"111","12","12","Changlang",NULL,NULL
+"111","12","13","Tirap",NULL,NULL
+"111","12","14","West Kameng",NULL,NULL
+"111","12","16","Kurung Kumey",NULL,NULL
+"111","13","01","Mon",NULL,NULL
+"111","13","02","Tuensang",NULL,NULL
+"111","13","03","Mokokchung",NULL,NULL
+"111","13","04","Zunheboto",NULL,NULL
+"111","13","05","Wokha",NULL,NULL
+"111","13","06","Dimapur",NULL,NULL
+"111","13","07","Kohima",NULL,NULL
+"111","13","08","Phek",NULL,NULL
+"111","13","09","KIPHIRE",NULL,NULL
+"111","14","01","Senapati",NULL,NULL
+"111","14","02","Tamenglong",NULL,NULL
+"111","14","03","Churachandpur",NULL,NULL
+"111","14","04","Bishnupur",NULL,NULL
+"111","14","05","Thoubal",NULL,NULL
+"111","14","06","Imphal West",NULL,NULL
+"111","14","07","Imphal East",NULL,NULL
+"111","14","08","Ukhrul",NULL,NULL
+"111","14","09","Chandel",NULL,NULL
+"111","15","01","Mamit",NULL,NULL
+"111","15","02","Kolasib",NULL,NULL
+"111","15","03","Aizawl",NULL,NULL
+"111","15","04","Champhai",NULL,NULL
+"111","15","05","Serchhip",NULL,NULL
+"111","15","06","Lunglei",NULL,NULL
+"111","15","07","Lawngtlai",NULL,NULL
+"111","15","08","Saiha",NULL,NULL
+"111","16","01","West Tripura",NULL,NULL
+"111","16","02","South Tripura",NULL,NULL
+"111","16","03","Dhalai",NULL,NULL
+"111","16","04","North Tripura",NULL,NULL
+"111","17","01","West Garo Hills",NULL,NULL
+"111","17","02","East Garo Hills",NULL,NULL
+"111","17","03","South Garo Hills",NULL,NULL
+"111","17","04","West Khasi Hills",NULL,NULL
+"111","17","05","Ri Bhoi",NULL,NULL
+"111","17","06","East Khasi Hills",NULL,NULL
+"111","17","07","Jaintia Hills",NULL,NULL
+"111","18","01","Kokrajhar",NULL,NULL
+"111","18","02","Dhubri",NULL,NULL
+"111","18","03","Goalpara",NULL,NULL
+"111","18","04","Bongaigaon",NULL,NULL
+"111","18","05","Barpeta",NULL,NULL
+"111","18","06","Kamrup",NULL,NULL
+"111","18","07","Nalbari",NULL,NULL
+"111","18","08","Darrang",NULL,NULL
+"111","18","09","Marigaon",NULL,NULL
+"111","18","10","Nagaon",NULL,NULL
+"111","18","11","Sonitpur",NULL,NULL
+"111","18","12","Lakhimpur",NULL,NULL
+"111","18","13","Dhemaji",NULL,NULL
+"111","18","14","Tinsukia",NULL,NULL
+"111","18","15","Dibrugarh",NULL,NULL
+"111","18","16","Sibsagar",NULL,NULL
+"111","18","17","Jorhat",NULL,NULL
+"111","18","18","Golaghat",NULL,NULL
+"111","18","19","Karbi Anglong",NULL,NULL
+"111","18","20","North Cachar Hills",NULL,NULL
+"111","18","21","Cachar",NULL,NULL
+"111","18","22","Karimganj",NULL,NULL
+"111","18","23","Hailakandi",NULL,NULL
+"111","18","24","Guwahati",NULL,NULL
+"111","19","01","Bankura",NULL,NULL
+"111","19","02","Burdwan",NULL,NULL
+"111","19","03","Birbhum",NULL,NULL
+"111","19","04","Darjeeling",NULL,NULL
+"111","19","05","Howrah",NULL,NULL
+"111","19","06","Hooghly",NULL,NULL
+"111","19","07","Jalpaiguri",NULL,NULL
+"111","19","08","Coochbehar",NULL,NULL
+"111","19","09","Malda",NULL,NULL
+"111","19","10","Paschim Midnapore",NULL,NULL
+"111","19","11","Purba Midnapore",NULL,NULL
+"111","19","12","Murshidabad",NULL,NULL
+"111","19","13","Nadia",NULL,NULL
+"111","19","14","Purulia",NULL,NULL
+"111","19","15","North 24-Parganas",NULL,NULL
+"111","19","16","South 24-Parganas",NULL,NULL
+"111","19","17","Dakshin Dinajpur",NULL,NULL
+"111","19","18","Uttar Dinajpur",NULL,NULL
+"111","19","19","Kolkata",NULL,NULL
+"111","19","20","Alipurduar",NULL,NULL
+"111","19","21","Kalimpong","Y",NULL
+"111","20","01","Latehar",NULL,NULL
+"111","20","02","Palamu",NULL,NULL
+"111","20","03","Chatra",NULL,NULL
+"111","20","04","Garhwa",NULL,NULL
+"111","20","05","Kodarma",NULL,NULL
+"111","20","06","Giridih",NULL,NULL
+"111","20","07","Deoghar",NULL,NULL
+"111","20","08","Godda",NULL,NULL
+"111","20","09","Sahibganj",NULL,NULL
+"111","20","10","Pakaur",NULL,NULL
+"111","20","11","Dumka",NULL,NULL
+"111","20","12","Dhanbad",NULL,NULL
+"111","20","13","Bokaro",NULL,NULL
+"111","20","14","Ranchi",NULL,NULL
+"111","20","15","Lohardaga",NULL,NULL
+"111","20","16","Gumla",NULL,NULL
+"111","20","17","Pashchimi Singhbhum",NULL,NULL
+"111","20","18","Purbi Singhbhum",NULL,NULL
+"111","20","19","Sareikela Kharsawan",NULL,NULL
+"111","20","20","Simdega",NULL,NULL
+"111","20","21","Hazaribag",NULL,NULL
+"111","20","23","Jamtara",NULL,NULL
+"111","21","01","Bargarh",NULL,NULL
+"111","21","02","Jharsuguda",NULL,NULL
+"111","21","03","Sambalpur",NULL,NULL
+"111","21","04","Debagarh",NULL,NULL
+"111","21","05","Sundargarh",NULL,NULL
+"111","21","06","Kendujhar",NULL,NULL
+"111","21","07","Mayurbhanj",NULL,NULL
+"111","21","08","Baleshwar",NULL,NULL
+"111","21","09","Bhadrak",NULL,NULL
+"111","21","10","Kendrapara",NULL,NULL
+"111","21","11","Jagatsinghapur",NULL,NULL
+"111","21","12","Cuttack",NULL,NULL
+"111","21","13","Jajapur",NULL,NULL
+"111","21","14","Dhenkanal",NULL,NULL
+"111","21","15","Anugul",NULL,NULL
+"111","21","16","Nayagarh",NULL,NULL
+"111","21","17","Khordha",NULL,NULL
+"111","21","18","Puri",NULL,NULL
+"111","21","19","Ganjam",NULL,NULL
+"111","21","20","Gajapati",NULL,NULL
+"111","21","21","Kandhamal",NULL,NULL
+"111","21","22","Baudh",NULL,NULL
+"111","21","23","Sonapur",NULL,NULL
+"111","21","24","Balangir",NULL,NULL
+"111","21","25","Nuapada",NULL,NULL
+"111","21","26","Kalahandi",NULL,NULL
+"111","21","27","Rayagada",NULL,NULL
+"111","21","28","Nabarangapur",NULL,NULL
+"111","21","29","Koraput",NULL,NULL
+"111","21","30","Malkangiri",NULL,NULL
+"111","22","01","Koriya",NULL,NULL
+"111","22","02","Surguja",NULL,NULL
+"111","22","03","Jashpur",NULL,NULL
+"111","22","04","Raigarh",NULL,NULL
+"111","22","05","Korba",NULL,NULL
+"111","22","06","Janjgir - Champa",NULL,NULL
+"111","22","07","Bilaspur",NULL,NULL
+"111","22","08","Kawardha",NULL,NULL
+"111","22","09","Rajnandgaon",NULL,NULL
+"111","22","10","Durg",NULL,NULL
+"111","22","11","Raipur",NULL,NULL
+"111","22","12","Mahasamund",NULL,NULL
+"111","22","13","Dhamtari",NULL,NULL
+"111","22","14","Kanker",NULL,NULL
+"111","22","15","Bastar",NULL,NULL
+"111","22","16","Dantewada",NULL,NULL
+"111","22","17","BIJAPUR",NULL,NULL
+"111","23","01","Sheopur",NULL,NULL
+"111","23","02","Morena",NULL,NULL
+"111","23","03","Bhind",NULL,NULL
+"111","23","04","Gwalior",NULL,NULL
+"111","23","05","Datia",NULL,NULL
+"111","23","06","Shivpuri",NULL,NULL
+"111","23","07","Guna",NULL,NULL
+"111","23","08","Tikamgarh",NULL,NULL
+"111","23","09","Chhatarpur",NULL,NULL
+"111","23","10","Panna",NULL,NULL
+"111","23","11","Sagar",NULL,NULL
+"111","23","12","Damoh",NULL,NULL
+"111","23","13","Satna",NULL,NULL
+"111","23","14","Rewa",NULL,NULL
+"111","23","15","Umaria",NULL,NULL
+"111","23","16","Shahdol",NULL,NULL
+"111","23","17","Sidhi",NULL,NULL
+"111","23","18","Neemuch",NULL,NULL
+"111","23","19","Mandsaur",NULL,NULL
+"111","23","20","Ratlam",NULL,NULL
+"111","23","21","Ujjain",NULL,NULL
+"111","23","22","Shajapur",NULL,NULL
+"111","23","23","Dewas",NULL,NULL
+"111","23","24","Jhabua",NULL,NULL
+"111","23","25","Dhar",NULL,NULL
+"111","23","26","Indore",NULL,NULL
+"111","23","27","West Nimar",NULL,NULL
+"111","23","28","Barwani",NULL,NULL
+"111","23","29","East Nimar",NULL,NULL
+"111","23","30","Rajgarh",NULL,NULL
+"111","23","31","Vidisha",NULL,NULL
+"111","23","32","Bhopal",NULL,NULL
+"111","23","33","Sehore",NULL,NULL
+"111","23","34","Raisen",NULL,NULL
+"111","23","35","Betul",NULL,NULL
+"111","23","36","Harda",NULL,NULL
+"111","23","37","Hoshangabad",NULL,NULL
+"111","23","38","Katni",NULL,NULL
+"111","23","39","Jabalpur",NULL,NULL
+"111","23","40","Narsimhapur",NULL,NULL
+"111","23","41","Dindori",NULL,NULL
+"111","23","42","Mandla",NULL,NULL
+"111","23","43","Chhindwara",NULL,NULL
+"111","23","44","Seoni",NULL,NULL
+"111","23","45","Balaghat",NULL,NULL
+"111","23","46","KHARGONE",NULL,NULL
+"111","23","48","KHANDWA",NULL,NULL
+"111","24","01","Kachchh",NULL,NULL
+"111","24","02","Banas Kantha",NULL,NULL
+"111","24","03","Patan",NULL,NULL
+"111","24","04","Mahesana",NULL,NULL
+"111","24","05","Sabar Kantha",NULL,NULL
+"111","24","06","Gandhinagar",NULL,NULL
+"111","24","07","Ahmadabad",NULL,NULL
+"111","24","08","Surendranagar",NULL,NULL
+"111","24","09","Rajkot",NULL,NULL
+"111","24","10","Jamnagar",NULL,NULL
+"111","24","11","Porbandar",NULL,NULL
+"111","24","12","Junagadh",NULL,NULL
+"111","24","13","Amreli",NULL,NULL
+"111","24","14","Bhavnagar",NULL,NULL
+"111","24","15","Anand",NULL,NULL
+"111","24","16","Kheda",NULL,NULL
+"111","24","17","Panch Mahals",NULL,NULL
+"111","24","18","Dohad",NULL,NULL
+"111","24","19","Vadodara",NULL,NULL
+"111","24","20","Narmada",NULL,NULL
+"111","24","21","Bharuch",NULL,NULL
+"111","24","22","Surat",NULL,NULL
+"111","24","23","The Dangs",NULL,NULL
+"111","24","24","Navsari",NULL,NULL
+"111","24","25","Valsad",NULL,NULL
+"111","24","26","AHWA (DANGS)",NULL,NULL
+"111","25","01","Diu",NULL,NULL
+"111","25","02","Daman",NULL,NULL
+"111","26","01","Dadra & Nagar Haveli",NULL,NULL
+"111","27","01","Nandurbar",NULL,NULL
+"111","27","02","Dhule",NULL,NULL
+"111","27","03","Jalgaon",NULL,NULL
+"111","27","04","Buldana",NULL,NULL
+"111","27","05","Akola",NULL,NULL
+"111","27","06","Washim",NULL,NULL
+"111","27","07","Amravati",NULL,NULL
+"111","27","08","Wardha",NULL,NULL
+"111","27","09","Nagpur",NULL,NULL
+"111","27","10","Bhandara",NULL,NULL
+"111","27","11","Gondiya",NULL,NULL
+"111","27","12","Gadchiroli",NULL,NULL
+"111","27","13","Chandrapur",NULL,NULL
+"111","27","14","Yavatmal",NULL,NULL
+"111","27","15","Nanded",NULL,NULL
+"111","27","16","Hingoli",NULL,NULL
+"111","27","17","Parbhani",NULL,NULL
+"111","27","18","Jalna",NULL,NULL
+"111","27","19","Aurangabad",NULL,NULL
+"111","27","20","Nashik",NULL,NULL
+"111","27","21","Thane",NULL,NULL
+"111","27","22","Mumbai (Suburban)",NULL,NULL
+"111","27","23","Mumbai",NULL,NULL
+"111","27","24","Raigarh",NULL,NULL
+"111","27","25","Pune",NULL,NULL
+"111","27","26","Ahmadnagar",NULL,NULL
+"111","27","27","Bid",NULL,NULL
+"111","27","28","Latur",NULL,NULL
+"111","27","29","Osmanabad",NULL,NULL
+"111","27","30","Solapur",NULL,NULL
+"111","27","31","Satara",NULL,NULL
+"111","27","32","Ratnagiri",NULL,NULL
+"111","27","33","Sindhudurg",NULL,NULL
+"111","27","34","Kolhapur",NULL,NULL
+"111","27","35","Sangli",NULL,NULL
+"111","28","01","Adilabad",NULL,NULL
+"111","28","02","Nizamabad",NULL,NULL
+"111","28","03","Karimnagar",NULL,NULL
+"111","28","04","Medak",NULL,NULL
+"111","28","05","Hyderabad",NULL,NULL
+"111","28","06","Rangareddy",NULL,NULL
+"111","28","07","Mahbubnagar",NULL,NULL
+"111","28","08","Nalgonda",NULL,NULL
+"111","28","09","Warangal",NULL,NULL
+"111","28","10","Khammam",NULL,NULL
+"111","28","11","Srikakulam",NULL,NULL
+"111","28","12","Vizianagaram",NULL,NULL
+"111","28","13","Visakhapatnam",NULL,NULL
+"111","28","14","East Godavari",NULL,NULL
+"111","28","15","West Godavari",NULL,NULL
+"111","28","16","Krishna",NULL,NULL
+"111","28","17","Guntur",NULL,NULL
+"111","28","18","Prakasam",NULL,NULL
+"111","28","19","Nellore",NULL,NULL
+"111","28","20","Cuddapah",NULL,NULL
+"111","28","21","Kurnool",NULL,NULL
+"111","28","22","Anantapur",NULL,NULL
+"111","28","23","Chittoor",NULL,NULL
+"111","29","01","Belgaum",NULL,NULL
+"111","29","02","Bagalkot",NULL,NULL
+"111","29","03","Bijapur",NULL,NULL
+"111","29","04","Gulbarga",NULL,NULL
+"111","29","05","Bidar",NULL,NULL
+"111","29","06","Raichur",NULL,NULL
+"111","29","07","Koppal",NULL,NULL
+"111","29","08","Gadag",NULL,NULL
+"111","29","09","Dharwad",NULL,NULL
+"111","29","10","Uttara Kannada",NULL,NULL
+"111","29","11","Haveri",NULL,NULL
+"111","29","12","Bellary",NULL,NULL
+"111","29","13","Chitradurga",NULL,NULL
+"111","29","14","Davanagere",NULL,NULL
+"111","29","15","Shimoga",NULL,NULL
+"111","29","16","Udupi",NULL,NULL
+"111","29","17","Chikmagalur",NULL,NULL
+"111","29","18","Tumkur",NULL,NULL
+"111","29","19","Kolar",NULL,NULL
+"111","29","20","Bangalore",NULL,NULL
+"111","29","21","Bangalore Rural",NULL,NULL
+"111","29","22","Mandya",NULL,NULL
+"111","29","23","Hassan",NULL,NULL
+"111","29","24","Dakshina Kannada",NULL,NULL
+"111","29","25","Kodagu",NULL,NULL
+"111","29","26","Mysore",NULL,NULL
+"111","29","27","Chamarajanagar",NULL,NULL
+"111","30","01","North Goa",NULL,NULL
+"111","30","02","South Goa",NULL,NULL
+"111","31","01","Lakshadweep",NULL,NULL
+"111","32","01","Kasaragod",NULL,NULL
+"111","32","02","Kannur",NULL,NULL
+"111","32","03","Wayanad",NULL,NULL
+"111","32","04","Kozhikode",NULL,NULL
+"111","32","05","Malappuram",NULL,NULL
+"111","32","06","Palakkad",NULL,NULL
+"111","32","07","Thrissur",NULL,NULL
+"111","32","08","Ernakulam",NULL,NULL
+"111","32","09","Idukki",NULL,NULL
+"111","32","10","Kottayam",NULL,NULL
+"111","32","11","Alappuzha",NULL,NULL
+"111","32","12","Pathanamthitta",NULL,NULL
+"111","32","13","Kollam",NULL,NULL
+"111","32","14","Thiruvananthapuram",NULL,NULL
+"111","33","01","Thiruvallur",NULL,NULL
+"111","33","02","Chennai",NULL,NULL
+"111","33","03","Kancheepuram",NULL,NULL
+"111","33","04","Vellore",NULL,NULL
+"111","33","05","Dharmapuri",NULL,NULL
+"111","33","06","Tiruvannamalai",NULL,NULL
+"111","33","07","Viluppuram",NULL,NULL
+"111","33","08","Salem",NULL,NULL
+"111","33","09","Namakkal",NULL,NULL
+"111","33","10","Erode",NULL,NULL
+"111","33","11","The Nilgiris",NULL,NULL
+"111","33","12","Coimbatore",NULL,NULL
+"111","33","13","Dindigul",NULL,NULL
+"111","33","14","Karur",NULL,NULL
+"111","33","15","Tiruchirappalli",NULL,NULL
+"111","33","16","Perambalur",NULL,NULL
+"111","33","18","Cuddalore",NULL,NULL
+"111","33","19","Nagapattinam",NULL,NULL
+"111","33","20","Thiruvarur",NULL,NULL
+"111","33","21","Thanjavur",NULL,NULL
+"111","33","22","Pudukkottai",NULL,NULL
+"111","33","23","Sivaganga",NULL,NULL
+"111","33","24","Madurai",NULL,NULL
+"111","33","25","Theni",NULL,NULL
+"111","33","26","Virudhunagar",NULL,NULL
+"111","33","27","Ramanathapuram",NULL,NULL
+"111","33","28","Thoothukkudi",NULL,NULL
+"111","33","29","Tirunelveli",NULL,NULL
+"111","33","30","Kanniyakumari",NULL,NULL
+"111","33","31","KRISHNAGIRI",NULL,NULL
+"111","33","O4","ARIYALUR",NULL,NULL
+"111","33","P8","Triuppur",NULL,NULL
+"111","34","01","Yanam",NULL,NULL
+"111","34","02","Pondicherry",NULL,NULL
+"111","34","03","Mahe",NULL,NULL
+"111","34","04","Karaikal",NULL,NULL
+"111","35","01","Andamans",NULL,NULL
+"111","35","02","Nicobars",NULL,NULL

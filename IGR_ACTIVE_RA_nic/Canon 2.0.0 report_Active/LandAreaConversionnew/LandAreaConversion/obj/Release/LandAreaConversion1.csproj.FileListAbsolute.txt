@@ -1,0 +1,9 @@
+D:\Copy of LandAreaConversion\LandAreaConversion\bin\Release\LandAreaConversion.dll
+D:\Copy of LandAreaConversion\LandAreaConversion\bin\Release\LandAreaConversion.pdb
+D:\Copy of LandAreaConversion\LandAreaConversion\obj\Release\ResolveAssemblyReference.cache
+D:\Copy of LandAreaConversion\LandAreaConversion\obj\Release\LandAreaConversion.frmConverter.resources
+D:\Copy of LandAreaConversion\LandAreaConversion\obj\Release\LandAreaConversion.frmEntPlotKhaitan.resources
+D:\Copy of LandAreaConversion\LandAreaConversion\obj\Release\LandAreaConversion.Properties.Resources.resources
+D:\Copy of LandAreaConversion\LandAreaConversion\obj\Release\LandAreaConversion1.csproj.GenerateResource.Cache
+D:\Copy of LandAreaConversion\LandAreaConversion\obj\Release\LandAreaConversion.dll
+D:\Copy of LandAreaConversion\LandAreaConversion\obj\Release\LandAreaConversion.pdb

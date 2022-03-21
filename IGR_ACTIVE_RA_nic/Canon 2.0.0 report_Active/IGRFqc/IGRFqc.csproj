@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4FF77E15-DAA1-49EF-BF8C-CC7652675F09}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IGRFqc</RootNamespace>
+    <AssemblyName>IGRFqc</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>http://localhost/IGRFqc/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LandAreaConversion, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\LandAreaConversionnew\LandAreaConversion\bin\Debug\LandAreaConversion.dll</HintPath>
+    </Reference>
+    <Reference Include="nControls, Version=1.1.1.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\nControls\bin\Debug\nControls.dll</HintPath>
+    </Reference>
+    <Reference Include="NovaNet.Utils">
+      <HintPath>..\libs\NovaNet.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="NvUtils">
+      <HintPath>..\libs\NvUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="OnlyNumbers">
+      <HintPath>..\libs\OnlyNumbers.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="valUtils, Version=1.0.6498.30162, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\valUtils\bin\Debug\valUtils.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="constants.cs" />
+    <Compile Include="Deed_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deed_details.Designer.cs">
+      <DependentUpon>Deed_details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmauthentication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmauthentication.Designer.cs">
+      <DependentUpon>frmauthentication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmdeedControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdeedControl.Designer.cs">
+      <DependentUpon>frmdeedControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeeds.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeeds.Designer.cs">
+      <DependentUpon>frmDeeds.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeedsummery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeedsummery.Designer.cs">
+      <DependentUpon>frmDeedsummery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmErr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmErr.Designer.cs">
+      <DependentUpon>frmErr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIndex1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIndex1.Designer.cs">
+      <DependentUpon>frmIndex1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIndex2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIndex2.Designer.cs">
+      <DependentUpon>frmIndex2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIndex2outsideWB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIndex2outsideWB.Designer.cs">
+      <DependentUpon>frmIndex2outsideWB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOutsidewbsugg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOutsidewbsugg.Designer.cs">
+      <DependentUpon>frmOutsidewbsugg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSuggession.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSuggession.designer.cs">
+      <DependentUpon>frmSuggession.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVolume.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVolume.Designer.cs">
+      <DependentUpon>frmVolume.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopulateCombo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Deed_details.resx">
+      <DependentUpon>Deed_details.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmauthentication.resx">
+      <DependentUpon>frmauthentication.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdeedControl.resx">
+      <DependentUpon>frmdeedControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeeds.resx">
+      <DependentUpon>frmDeeds.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeedsummery.resx">
+      <DependentUpon>frmDeedsummery.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmErr.resx">
+      <DependentUpon>frmErr.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIndex1.resx">
+      <DependentUpon>frmIndex1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIndex2.resx">
+      <DependentUpon>frmIndex2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIndex2outsideWB.resx">
+      <DependentUpon>frmIndex2outsideWB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOutsidewbsugg.resx">
+      <DependentUpon>frmOutsidewbsugg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSuggession.resx">
+      <DependentUpon>frmSuggession.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVolume.resx">
+      <DependentUpon>frmVolume.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\igr_base\igr_base.csproj">
+      <Project>{740FADC5-36B1-442E-A420-2B31DE0EA3AF}</Project>
+      <Name>igr_base</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

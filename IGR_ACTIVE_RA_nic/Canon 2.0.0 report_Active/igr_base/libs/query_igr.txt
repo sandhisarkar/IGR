@@ -1,0 +1,18 @@
+1. To select a volume
+select distinct deed_year as Year, book as Book,volume_no as Volume, count(*) as Nos from deed_details group by deed_year, book,volume_no
+2. To select deeds pertaining a volume (2008, 1, 19)
+select deed_year as Year, book as Book,volume_no as Volume, deed_no from deed_details where district_code='19' and ro_code='03' and deed_year='2008' and Book='1' and Volume_no='19'
+select *,((page_to-page_from+1)+addl_pages) as exp_image_count from deed_details where district_code='19' and ro_code='03' and deed_year='2008' and Book='1' and Volume_no='19'
+3. To select Person Details pertaining to the volumn (2008, 1, 19)
+select b.* from index_of_name b, deed_details a where a.district_code='19' and a.ro_code='03' and a.deed_year='2008' and a.Book='1' and a.volume_no='19' and a.district_code=b.district_code and a.ro_code = b.ro_code and a.deed_year=b.deed_year and a.book=b.book and a.deed_no=b.deed_no
+select count(*) from index_of_name b, deed_details a where a.district_code='19' and a.ro_code='03' and a.deed_year='2008' and a.Book='1' and a.volume_no='19' and a.district_code=b.district_code and a.ro_code = b.ro_code and a.deed_year=b.deed_year and a.book=b.book and a.deed_no=b.deed_no
+4. To select Property Details pertaining to the volume (2008, 1, 19)
+select count(*) from index_of_property b, deed_details a where a.district_code='19' and a.ro_code='03' and a.deed_year='2008' and a.Book='1' and a.volume_no='19' and a.district_code=b.district_code and a.ro_code = b.ro_code and a.deed_year=b.deed_year and a.book=b.book and a.deed_no=b.deed_no
+select b.* from index_of_property b, deed_details a where a.district_code='19' and a.ro_code='03' and a.deed_year='2008' and a.Book='1' and a.volume_no='19' and a.district_code=b.district_code and a.ro_code = b.ro_code and a.deed_year=b.deed_year and a.book=b.book and a.deed_no=b.deed_no
+
+select deed_year as Year, book as Book,volume_no as Volume, deed_no from deed_details where district_code='19' and ro_code='03' and deed_year='2008' and Book='1' and Volume_no='19';
+
+//To select persons by a deed
+select b.District_Code, b.RO_Code,b.Book,b.Deed_year,b.Deed_no,b.Item_no,initial_name,First_name,Last_name,Party_code,Admit_code,Address,Address_district_code,Address_district_name,Address_ps_code,Address_ps_name,Father_mother,Rel_code,Relation,occupation_code,religion_code,b.Created_DTTM,b.Created_by,more,pin,city,other_party_code,linked_to FROM index_of_name b, deed_details a where a.district_code='19' and a.ro_code='03' and a.deed_year='2008' and a.Book='1' and a.deed_no='00682' and a.district_code=b.district_code and a.ro_code = b.ro_code and a.deed_year=b.deed_year and a.book=b.book and a.deed_no=b.deed_no
+//To select properties by a deed
+SELECT a.District_Code, a.RO_Code, a.Book, a.Deed_year, a.Deed_no,Item_no,Property_district_code,Property_ro_code,ps_code,moucode,Area_type,GP_Muni_Corp_Code,Ward,Holding,Premises,road_code,Plot_code_type,Road,Plot_No,Bata_No,Khatian_type,khatian_No,bata_khatian_no,property_type,Land_Area_acre,Land_Area_bigha,Land_Area_decimal,Land_Area_katha,Land_Area_chatak,Land_Area_sqfeet,Structure_area_in_sqFeet,b.Created_DTTM,b.Created_by,ref_ps,ref_mouza,JL_no,Other_plots,Other_Khatian,land_type,RefJL_no FROM index_of_property b, deed_details a where a.district_code='19' and a.ro_code='03' and a.deed_year='2008' and a.Book='1' and a.deed_no='00682' and a.district_code=b.district_code and a.ro_code = b.ro_code and a.deed_year=b.deed_year and a.book=b.book and a.deed_no=b.deed_no order by b.Item_no

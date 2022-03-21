@@ -1,0 +1,6 @@
+District_Code,ro_code,book,deed_year,deed_no,item_no,initial_name,first_name,last_name,party_code,admit_code,Address,Address_district_code,Address_district_name,Address_ps_code,Address_ps_name,Father_mother,Rel_code,Relation,occupation_code,religion_code,more,pin,city,other_party_code,linked_to,Exception_Type
+"19","03","1","2010","00001","1","Mr.","VV",,"25",,,"19","Kolkata","03","Amherst Street","N","R",,"09","01","N","000000",,"16",,
+"19","03","1","2010","00002","1","Mr.","GG",,"25",,,"19","Kolkata","03","Amherst Street","N","R","HH","09","01","N","000000",,"16",,
+"19","03","1","2010","00011","1",,"BB",,"25",,,"19","Kolkata","03","Amherst Street","N","R","JJ","09","01","N","000000",,"16",,
+"19","03","1","2010","00066","1",,"GG",,"25",,,"19","Kolkata","03","Amherst Street","N","R","HH","09","01","N","000000",,"16",,
+"19","03","1","2010","00077","1",,"HH",,"25",,,"19","Kolkata","03","Amherst Street","N","W","HH","09","01","N","000000",,"16",,

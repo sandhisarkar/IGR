@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Camera
+</name>
+</assembly>
+<members>
+<member name="M:Camera.Camerafunctions.Camera.EstablishSession(System.IntPtr,System.IntPtr)">
+	<summary>
+ connect the computer to the camera. must be called before doing anything else.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Camera.Camerafunctions.Camera.TakePicture(System.String,System.Windows.Forms.PictureBox,System.IntPtr)">
+	<summary>snap a photo with the camera and write it to outfile</summary>
+	<param name="OutFile">the file to save the picture to</param>
+</member><member name="M:Camera.Camerafunctions.Camera.StartLiveView(System.Windows.Forms.PictureBox)">
+	<summary>start streaming live video to pbox</summary>
+	<param name="pbox">the picture box to send live video to</param>
+	<remarks>you can only have one live view going at a time.</remarks>
+</member><member name="M:Camera.Camerafunctions.Camera.StopLiveView">
+	<summary>
+ stop streaming live video
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Camera.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Camera.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Camera.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

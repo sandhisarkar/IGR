@@ -1,0 +1,325 @@
+﻿namespace IGRFqc
+{
+    partial class frmDeedsummery
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.groupBox5 = new System.Windows.Forms.GroupBox();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.dgvIndex1 = new System.Windows.Forms.DataGridView();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.dgvDeed = new System.Windows.Forms.DataGridView();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.cmbBook = new nControls.deComboBox();
+            this.deLabel6 = new nControls.deLabel();
+            this.TxtVol = new nControls.deTextBox();
+            this.deLabel5 = new nControls.deLabel();
+            this.deLabel4 = new nControls.deLabel();
+            this.deLabel3 = new nControls.deLabel();
+            this.deLabel2 = new nControls.deLabel();
+            this.txtDeedNo = new nControls.deTextBox();
+            this.txtdeedYear = new nControls.deTextBox();
+            this.cmbRO = new nControls.deComboBox();
+            this.cmbDistrict = new nControls.deComboBox();
+            this.deLabel1 = new nControls.deLabel();
+            this.groupBox1.SuspendLayout();
+            this.groupBox5.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.groupBox4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvIndex1)).BeginInit();
+            this.groupBox3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvDeed)).BeginInit();
+            this.groupBox2.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.groupBox5);
+            this.groupBox1.Controls.Add(this.groupBox4);
+            this.groupBox1.Controls.Add(this.groupBox3);
+            this.groupBox1.Controls.Add(this.groupBox2);
+            this.groupBox1.Location = new System.Drawing.Point(4, 1);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(515, 535);
+            this.groupBox1.TabIndex = 0;
+            this.groupBox1.TabStop = false;
+            // 
+            // groupBox5
+            // 
+            this.groupBox5.Controls.Add(this.dataGridView1);
+            this.groupBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox5.Location = new System.Drawing.Point(9, 353);
+            this.groupBox5.Name = "groupBox5";
+            this.groupBox5.Size = new System.Drawing.Size(495, 169);
+            this.groupBox5.TabIndex = 3;
+            this.groupBox5.TabStop = false;
+            this.groupBox5.Text = "Property Details";
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.AllowUserToAddRows = false;
+            this.dataGridView1.AllowUserToDeleteRows = false;
+            this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.GridColor = System.Drawing.SystemColors.ButtonFace;
+            this.dataGridView1.Location = new System.Drawing.Point(6, 18);
+            this.dataGridView1.MultiSelect = false;
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.ReadOnly = true;
+            this.dataGridView1.RowHeadersVisible = false;
+            this.dataGridView1.Size = new System.Drawing.Size(482, 140);
+            this.dataGridView1.TabIndex = 1;
+            // 
+            // groupBox4
+            // 
+            this.groupBox4.Controls.Add(this.dgvIndex1);
+            this.groupBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox4.Location = new System.Drawing.Point(9, 249);
+            this.groupBox4.Name = "groupBox4";
+            this.groupBox4.Size = new System.Drawing.Size(495, 100);
+            this.groupBox4.TabIndex = 2;
+            this.groupBox4.TabStop = false;
+            this.groupBox4.Text = "Person Details";
+            // 
+            // dgvIndex1
+            // 
+            this.dgvIndex1.AllowUserToAddRows = false;
+            this.dgvIndex1.AllowUserToDeleteRows = false;
+            this.dgvIndex1.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
+            this.dgvIndex1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvIndex1.GridColor = System.Drawing.SystemColors.ButtonFace;
+            this.dgvIndex1.Location = new System.Drawing.Point(6, 19);
+            this.dgvIndex1.MultiSelect = false;
+            this.dgvIndex1.Name = "dgvIndex1";
+            this.dgvIndex1.ReadOnly = true;
+            this.dgvIndex1.RowHeadersVisible = false;
+            this.dgvIndex1.Size = new System.Drawing.Size(482, 75);
+            this.dgvIndex1.TabIndex = 1;
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.dgvDeed);
+            this.groupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox3.Location = new System.Drawing.Point(9, 180);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(495, 64);
+            this.groupBox3.TabIndex = 1;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "Deed Details";
+            // 
+            // dgvDeed
+            // 
+            this.dgvDeed.AllowUserToAddRows = false;
+            this.dgvDeed.AllowUserToDeleteRows = false;
+            this.dgvDeed.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
+            this.dgvDeed.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvDeed.GridColor = System.Drawing.SystemColors.ButtonFace;
+            this.dgvDeed.Location = new System.Drawing.Point(7, 17);
+            this.dgvDeed.MultiSelect = false;
+            this.dgvDeed.Name = "dgvDeed";
+            this.dgvDeed.ReadOnly = true;
+            this.dgvDeed.RowHeadersVisible = false;
+            this.dgvDeed.Size = new System.Drawing.Size(482, 41);
+            this.dgvDeed.TabIndex = 0;
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Controls.Add(this.cmbBook);
+            this.groupBox2.Controls.Add(this.deLabel6);
+            this.groupBox2.Controls.Add(this.TxtVol);
+            this.groupBox2.Controls.Add(this.deLabel5);
+            this.groupBox2.Controls.Add(this.deLabel4);
+            this.groupBox2.Controls.Add(this.deLabel3);
+            this.groupBox2.Controls.Add(this.deLabel2);
+            this.groupBox2.Controls.Add(this.txtDeedNo);
+            this.groupBox2.Controls.Add(this.txtdeedYear);
+            this.groupBox2.Controls.Add(this.cmbRO);
+            this.groupBox2.Controls.Add(this.cmbDistrict);
+            this.groupBox2.Controls.Add(this.deLabel1);
+            this.groupBox2.Location = new System.Drawing.Point(63, 14);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(362, 162);
+            this.groupBox2.TabIndex = 0;
+            this.groupBox2.TabStop = false;
+            // 
+            // cmbBook
+            // 
+            this.cmbBook.Enabled = false;
+            this.cmbBook.FormattingEnabled = true;
+            this.cmbBook.Location = new System.Drawing.Point(91, 60);
+            this.cmbBook.Name = "cmbBook";
+            this.cmbBook.Size = new System.Drawing.Size(196, 21);
+            this.cmbBook.TabIndex = 12;
+            // 
+            // deLabel6
+            // 
+            this.deLabel6.AutoSize = true;
+            this.deLabel6.Location = new System.Drawing.Point(20, 106);
+            this.deLabel6.Name = "deLabel6";
+            this.deLabel6.Size = new System.Drawing.Size(62, 13);
+            this.deLabel6.TabIndex = 11;
+            this.deLabel6.Text = "Volumn No:";
+            // 
+            // TxtVol
+            // 
+            this.TxtVol.Location = new System.Drawing.Point(91, 106);
+            this.TxtVol.Name = "TxtVol";
+            this.TxtVol.ReadOnly = true;
+            this.TxtVol.Size = new System.Drawing.Size(194, 20);
+            this.TxtVol.TabIndex = 10;
+            // 
+            // deLabel5
+            // 
+            this.deLabel5.AutoSize = true;
+            this.deLabel5.Location = new System.Drawing.Point(20, 130);
+            this.deLabel5.Name = "deLabel5";
+            this.deLabel5.Size = new System.Drawing.Size(53, 13);
+            this.deLabel5.TabIndex = 9;
+            this.deLabel5.Text = "Deed No:";
+            // 
+            // deLabel4
+            // 
+            this.deLabel4.AutoSize = true;
+            this.deLabel4.Location = new System.Drawing.Point(20, 84);
+            this.deLabel4.Name = "deLabel4";
+            this.deLabel4.Size = new System.Drawing.Size(61, 13);
+            this.deLabel4.TabIndex = 8;
+            this.deLabel4.Text = "Deed Year:";
+            // 
+            // deLabel3
+            // 
+            this.deLabel3.AutoSize = true;
+            this.deLabel3.Location = new System.Drawing.Point(20, 61);
+            this.deLabel3.Name = "deLabel3";
+            this.deLabel3.Size = new System.Drawing.Size(35, 13);
+            this.deLabel3.TabIndex = 7;
+            this.deLabel3.Text = "Book:";
+            // 
+            // deLabel2
+            // 
+            this.deLabel2.AutoSize = true;
+            this.deLabel2.Location = new System.Drawing.Point(20, 37);
+            this.deLabel2.Name = "deLabel2";
+            this.deLabel2.Size = new System.Drawing.Size(26, 13);
+            this.deLabel2.TabIndex = 6;
+            this.deLabel2.Text = "RO:";
+            // 
+            // txtDeedNo
+            // 
+            this.txtDeedNo.Location = new System.Drawing.Point(92, 130);
+            this.txtDeedNo.Name = "txtDeedNo";
+            this.txtDeedNo.ReadOnly = true;
+            this.txtDeedNo.Size = new System.Drawing.Size(194, 20);
+            this.txtDeedNo.TabIndex = 5;
+            // 
+            // txtdeedYear
+            // 
+            this.txtdeedYear.Location = new System.Drawing.Point(91, 84);
+            this.txtdeedYear.Name = "txtdeedYear";
+            this.txtdeedYear.ReadOnly = true;
+            this.txtdeedYear.Size = new System.Drawing.Size(194, 20);
+            this.txtdeedYear.TabIndex = 4;
+            // 
+            // cmbRO
+            // 
+            this.cmbRO.Enabled = false;
+            this.cmbRO.FormattingEnabled = true;
+            this.cmbRO.Location = new System.Drawing.Point(91, 37);
+            this.cmbRO.Name = "cmbRO";
+            this.cmbRO.Size = new System.Drawing.Size(196, 21);
+            this.cmbRO.TabIndex = 2;
+            // 
+            // cmbDistrict
+            // 
+            this.cmbDistrict.Enabled = false;
+            this.cmbDistrict.FormattingEnabled = true;
+            this.cmbDistrict.Location = new System.Drawing.Point(90, 13);
+            this.cmbDistrict.Name = "cmbDistrict";
+            this.cmbDistrict.Size = new System.Drawing.Size(196, 21);
+            this.cmbDistrict.TabIndex = 1;
+            this.cmbDistrict.SelectedIndexChanged += new System.EventHandler(this.cmbDistrict_SelectedIndexChanged);
+            // 
+            // deLabel1
+            // 
+            this.deLabel1.AutoSize = true;
+            this.deLabel1.Location = new System.Drawing.Point(20, 16);
+            this.deLabel1.Name = "deLabel1";
+            this.deLabel1.Size = new System.Drawing.Size(45, 13);
+            this.deLabel1.TabIndex = 0;
+            this.deLabel1.Text = "District :";
+            // 
+            // frmDeedsummery
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(526, 547);
+            this.Controls.Add(this.groupBox1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.Name = "frmDeedsummery";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Deed Summery...";
+            this.Load += new System.EventHandler(this.frmDeedsummery_Load);
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox5.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.groupBox4.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dgvIndex1)).EndInit();
+            this.groupBox3.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dgvDeed)).EndInit();
+            this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.GroupBox groupBox5;
+        private System.Windows.Forms.GroupBox groupBox4;
+        private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private nControls.deTextBox txtDeedNo;
+        private nControls.deTextBox txtdeedYear;
+        private nControls.deComboBox cmbRO;
+        private nControls.deComboBox cmbDistrict;
+        private nControls.deLabel deLabel1;
+        private nControls.deLabel deLabel5;
+        private nControls.deLabel deLabel4;
+        private nControls.deLabel deLabel3;
+        private nControls.deLabel deLabel2;
+        private nControls.deLabel deLabel6;
+        private nControls.deTextBox TxtVol;
+        private nControls.deComboBox cmbBook;
+        private System.Windows.Forms.DataGridView dgvDeed;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView dgvIndex1;
+    }
+}

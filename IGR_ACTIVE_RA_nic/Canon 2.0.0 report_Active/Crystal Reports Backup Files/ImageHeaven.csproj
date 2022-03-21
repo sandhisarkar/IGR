@@ -1,0 +1,807 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{A1D64260-1843-4DEF-96FF-C84E2BFF8B02}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ImageHeaven</RootNamespace>
+    <AssemblyName>ImageHeaven</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <SourceAnalysisOverrideSettingsFile>C:\Documents and Settings\subhajitb\Application Data\ICSharpCode/SharpDevelop3.0\Settings.SourceAnalysis</SourceAnalysisOverrideSettingsFile>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <NoStdLib>False</NoStdLib>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <ReferencePath>D:\subhajit\Projects\M31\</ReferencePath>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <BaseAddress>4194304</BaseAddress>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <Optimize>true</Optimize>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <DebugType>full</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.Targets" />
+  <ItemGroup>
+    <Reference Include="batchManagement, Version=1.0.6118.21591, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\batchManagement\bin\Debug\batchManagement.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Design" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms" />
+    <Reference Include="IGRFqc, Version=2.0.1.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Sumit Handover_test\latest data entry igr\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\IGRFqc\bin\Debug\IGRFqc.dll</HintPath>
+    </Reference>
+    <Reference Include="igr_base, Version=1.2.2.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\final Morut\sumit_16_07\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\igr_base\bin\Debug\igr_base.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.ClearImage, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.ClearImage.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.2.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>F:\C download backup290515\itextsharp-all-5.2.0\itextsharp-dll-core-5.2.0\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="LandAreaConversion, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\dll\LandAreaConversion.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.InfoPath.Permission, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="Microsoft.Office.Interop.Access, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Management.Sdk.Sfc, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Smo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.SmoExtended, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.SqlEnum, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="nControls, Version=1.1.1.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\nControls\bin\Debug\nControls.dll</HintPath>
+    </Reference>
+    <Reference Include="NIPlugin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="NovaNet.Utils, Version=1.3.4.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\NovaNet\Utils\bin\Debug\NovaNet.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="Office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="OnlyNumbers, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\OnlyNumbers.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking, Version=2.2.3355.34206, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeBatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeBatch.Designer.cs">
+      <DependentUpon>aeBatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeBoxSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeBoxSelection.Designer.cs">
+      <DependentUpon>aeBoxSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeConfiguration.Designer.cs">
+      <DependentUpon>aeConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeCSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeCSV.Designer.cs">
+      <DependentUpon>aeCSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeCustomExp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeCustomExp.Designer.cs">
+      <DependentUpon>aeCustomExp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeExport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeExport.Designer.cs">
+      <DependentUpon>aeExport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeFQC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeFQC.designer.cs">
+      <DependentUpon>aeFQC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeImageQC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeImageQC.Designer.cs">
+      <DependentUpon>aeImageQC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeIndexing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeIndexing.Designer.cs">
+      <DependentUpon>aeIndexing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeJobCreation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeJobCreation.Designer.cs">
+      <DependentUpon>aeJobCreation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeLicQa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeLicQa.Designer.cs">
+      <DependentUpon>aeLicQa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aePageCount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aePageCount.Designer.cs">
+      <DependentUpon>aePageCount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aePolicyScan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aePolicyScan.Designer.cs">
+      <DependentUpon>aePolicyScan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeProject.Designer.cs">
+      <DependentUpon>aeProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aeScanControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aeScanControl.Designer.cs">
+      <DependentUpon>aeScanControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlREsize.cs" />
+    <Compile Include="frmBatchRename.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBatchRename.Designer.cs">
+      <DependentUpon>frmBatchRename.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBlankDeedEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBlankDeedEntry.Designer.cs">
+      <DependentUpon>frmBlankDeedEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCancelScanning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCancelScanning.Designer.cs">
+      <DependentUpon>frmCancelScanning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDataImport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDataImport.Designer.cs">
+      <DependentUpon>frmDataImport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmdialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdialog.Designer.cs">
+      <DependentUpon>frmdialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewReport.Designer.cs">
+      <DependentUpon>frmNewReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSubmit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSubmit.Designer.cs">
+      <DependentUpon>frmSubmit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmsysCon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsysCon.designer.cs">
+      <DependentUpon>frmsysCon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTransferredData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTransferredData.designer.cs">
+      <DependentUpon>frmTransferredData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEdit.cs">
+    </Compile>
+    <Compile Include="frmAddEdit.Designer.cs">
+      <DependentUpon>frmAddEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBookScanning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBookScanning.Designer.cs">
+      <DependentUpon>frmBookScanning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustExcp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustExcp.Designer.cs">
+      <DependentUpon>frmCustExcp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDataUploader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDataUploader.Designer.cs">
+      <DependentUpon>frmDataUploader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmJobDistribution.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJobDistribution.Designer.cs">
+      <DependentUpon>frmJobDistribution.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMandPolicyList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMandPolicyList.Designer.cs">
+      <DependentUpon>frmMandPolicyList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPolicyList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPolicyList.Designer.cs">
+      <DependentUpon>frmPolicyList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPolicyLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPolicyLog.Designer.cs">
+      <DependentUpon>frmPolicyLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProductionCount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductionCount.Designer.cs">
+      <DependentUpon>frmProductionCount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRescanPolicy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRescanPolicy.Designer.cs">
+      <DependentUpon>frmRescanPolicy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRptViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRptViewer.designer.cs">
+      <DependentUpon>frmRptViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelection.Designer.cs">
+      <DependentUpon>frmSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSingleExp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSingleExp.Designer.cs">
+      <DependentUpon>frmSingleExp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUatReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUatReport.Designer.cs">
+      <DependentUpon>frmUatReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUatReportProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUatReportProject.Designer.cs">
+      <DependentUpon>frmUatReportProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HealthCheck.cs" />
+    <Compile Include="ihConstants.cs" />
+    <Compile Include="Customization\DockHelper.cs" />
+    <Compile Include="Customization\Extender.cs" />
+    <Compile Include="Customization\InertButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Customization\Resources.Designer.cs" />
+    <Compile Include="Customization\Strings.Designer.cs" />
+    <Compile Include="Customization\VS2003AutoHideStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Customization\VS2003DockPaneCaption.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Customization\VS2003DockPaneStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FloatToolbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FloatToolbox.Designer.cs">
+      <DependentUpon>FloatToolbox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="L1DeedReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="L1DeedReport.Designer.cs">
+      <DependentUpon>L1DeedReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NPlugin.cs" />
+    <Compile Include="PopupPoint.cs" />
+    <Compile Include="TestReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestReportViewer.designer.cs">
+      <DependentUpon>TestReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestReportViewer3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestReportViewer3.Designer.cs">
+      <DependentUpon>TestReportViewer3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestReportViewer4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestReportViewer4.Designer.cs">
+      <DependentUpon>TestReportViewer4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ToolBarDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ToolBarDoc.Designer.cs">
+      <DependentUpon>ToolBarDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs" />
+    <Compile Include="ToolWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ToolWindow.Designer.cs">
+      <DependentUpon>ToolWindow.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeBatch.resx">
+      <DependentUpon>aeBatch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeBoxSelection.resx">
+      <DependentUpon>aeBoxSelection.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeConfiguration.resx">
+      <DependentUpon>aeConfiguration.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeCSV.resx">
+      <DependentUpon>aeCSV.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeCustomExp.resx">
+      <DependentUpon>aeCustomExp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeExport.resx">
+      <DependentUpon>aeExport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeFQC.resx">
+      <DependentUpon>aeFQC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeImageQC.resx">
+      <DependentUpon>aeImageQC.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeIndexing.resx">
+      <DependentUpon>aeIndexing.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeJobCreation.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>aeJobCreation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeLicQa.resx">
+      <DependentUpon>aeLicQa.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aePageCount.resx">
+      <DependentUpon>aePageCount.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aePolicyScan.resx">
+      <DependentUpon>aePolicyScan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeProject.resx">
+      <DependentUpon>aeProject.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aeScanControl.resx">
+      <DependentUpon>aeScanControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customization\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customization\Strings.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FloatToolbox.resx">
+      <DependentUpon>FloatToolbox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBatchRename.resx">
+      <DependentUpon>frmBatchRename.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBlankDeedEntry.resx">
+      <DependentUpon>frmBlankDeedEntry.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCancelScanning.resx">
+      <DependentUpon>frmCancelScanning.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDataImport.resx">
+      <DependentUpon>frmDataImport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdialog.resx">
+      <DependentUpon>frmdialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewReport.resx">
+      <DependentUpon>frmNewReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSubmit.resx">
+      <DependentUpon>frmSubmit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsysCon.resx">
+      <DependentUpon>frmsysCon.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTransferredData.resx">
+      <DependentUpon>frmTransferredData.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEdit.resx">
+      <DependentUpon>frmAddEdit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBookScanning.resx">
+      <DependentUpon>frmBookScanning.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustExcp.resx">
+      <DependentUpon>frmCustExcp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDataUploader.resx">
+      <DependentUpon>frmDataUploader.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJobDistribution.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmJobDistribution.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMandPolicyList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMandPolicyList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPolicyList.resx">
+      <DependentUpon>frmPolicyList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPolicyLog.resx">
+      <DependentUpon>frmPolicyLog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductionCount.resx">
+      <DependentUpon>frmProductionCount.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRescanPolicy.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRescanPolicy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRptViewer.resx">
+      <DependentUpon>frmRptViewer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelection.resx">
+      <DependentUpon>frmSelection.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSingleExp.resx">
+      <DependentUpon>frmSingleExp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUatReport.resx">
+      <DependentUpon>frmUatReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUatReportProject.resx">
+      <DependentUpon>frmUatReportProject.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="L1DeedReport.resx">
+      <DependentUpon>L1DeedReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestReportViewer.resx">
+      <DependentUpon>TestReportViewer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestReportViewer3.resx">
+      <DependentUpon>TestReportViewer3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestReportViewer4.resx">
+      <DependentUpon>TestReportViewer4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToolBarDoc.resx">
+      <DependentUpon>ToolBarDoc.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToolWindow.resx">
+      <DependentUpon>ToolWindow.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Customization\Resources\DockIndicator_PaneDiamond.bmp" />
+    <None Include="Customization\Resources\DockIndicator_PaneDiamond_Bottom.bmp" />
+    <None Include="Customization\Resources\Dockindicator_PaneDiamond_Fill.bmp" />
+    <None Include="Customization\Resources\DockIndicator_PaneDiamond_Hotspot.bmp" />
+    <None Include="Customization\Resources\DockIndicator_PaneDiamond_HotspotIndex.bmp" />
+    <None Include="Customization\Resources\DockIndicator_PaneDiamond_Left.bmp" />
+    <None Include="Customization\Resources\DockIndicator_PaneDiamond_Right.bmp" />
+    <None Include="Customization\Resources\DockIndicator_PaneDiamond_Top.bmp" />
+    <None Include="Customization\Resources\DockIndicator_PanelBottom.bmp" />
+    <None Include="Customization\Resources\DockIndicator_PanelBottom_Active.bmp" />
+    <None Include="Customization\Resources\DockIndicator_PanelFill.bmp" />
+    <None Include="Customization\Resources\DockIndicator_PanelFill_Active.bmp" />
+    <None Include="Customization\Resources\DockIndicator_PanelLeft.bmp" />
+    <None Include="Customization\Resources\DockIndicator_PanelLeft_Active.bmp" />
+    <None Include="Customization\Resources\DockIndicator_PanelRight.bmp" />
+    <None Include="Customization\Resources\DockIndicator_PanelRight_Active.bmp" />
+    <None Include="Customization\Resources\DockIndicator_PanelTop.bmp" />
+    <None Include="Customization\Resources\DockIndicator_PanelTop_Active.bmp" />
+    <None Include="Customization\Resources\DockPaneCaption_AutoHideNo.bmp" />
+    <None Include="Customization\Resources\DockPaneCaption_AutoHideYes.bmp" />
+    <None Include="Customization\Resources\DockPaneCaption_CloseDisabled.bmp" />
+    <None Include="Customization\Resources\DockPaneCaption_CloseEnabled.bmp" />
+    <None Include="Customization\Resources\DockPaneStrip_CloseDisabled.bmp" />
+    <None Include="Customization\Resources\DockPaneStrip_CloseEnabled.bmp" />
+    <None Include="Customization\Resources\DockPaneStrip_ScrollLeftDisabled.bmp" />
+    <None Include="Customization\Resources\DockPaneStrip_ScrollLeftEnabled.bmp" />
+    <None Include="Customization\Resources\DockPaneStrip_ScrollRightDisabled.bmp" />
+    <None Include="Customization\Resources\DockPaneStrip_ScrollRightEnabled.bmp" />
+    <None Include="Resources\DockPanel.xml" />
+  </ItemGroup>
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\BurnMedia_src\BurnMedia.csproj">
+      <Project>{3b8fdb66-1d5a-4533-9f51-2d693bf0ef23}</Project>
+      <Name>BurnMedia</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CanonCamera\Camera\Camera\Camera.vbproj">
+      <Project>{B1CF1F2A-BDC8-4760-8530-85B186F39807}</Project>
+      <Name>Camera</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Logistics_reports\Logistics_reports.csproj">
+      <Project>{C0B08C6C-1544-42B0-BA77-51075707C2D5}</Project>
+      <Name>Logistics_reports</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\NovaNet\wfe\wfe.csproj">
+      <Project>{02D137AF-1D68-470E-843D-233E0E9E585F}</Project>
+      <Name>wfe</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TwainUtils\TwainUtils.csproj">
+      <Project>{0C48842A-7D30-45B3-9860-25822B4F15D4}</Project>
+      <Name>TwainUtils</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\wSelect\wSelect\wSelect\wSelect.csproj">
+      <Project>{464A1FB1-88E1-478E-892D-087AA908B297}</Project>
+      <Name>wSelect</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LItems\LItems.csproj">
+      <Project>{BA9E5332-ADC1-43D6-958E-4244DB23F412}</Project>
+      <Name>LItems</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\final_screen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\auto_crop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clean.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\de_skew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove_noise.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotate_lft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotate_rt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\zoom_in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+</Project>

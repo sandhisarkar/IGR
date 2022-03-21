@@ -1,0 +1,20 @@
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Release\Camera.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Release\Camera.pdb
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\bin\Release\Camera.xml
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Release\ResolveAssemblyReference.cache
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Release\Camera.Camerafunctions.Camera.resources
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Release\Camera.Resources.resources
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Release\Camera.vbproj.GenerateResource.Cache
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Release\Camera.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Release\Camera.xml
+G:\Copy of 1.7.0_modified on 19-06 new output\CanonCamera\Camera\Camera\obj\Release\Camera.pdb
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\bin\Release\Camera.dll
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\bin\Release\Camera.pdb
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\bin\Release\Camera.xml
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\obj\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\obj\Release\Camera.Camerafunctions.Camera.resources
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\obj\Release\Camera.Resources.resources
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\obj\Release\Camera.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\obj\Release\Camera.dll
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\obj\Release\Camera.xml
+C:\Users\USER\Desktop\1.8.0 report\CanonCamera\Camera\Camera\obj\Release\Camera.pdb

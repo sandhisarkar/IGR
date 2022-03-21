@@ -1,0 +1,41 @@
+C:\Documents and Settings\sumits.NTPL-DC\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\bin\Debug\nControls.dll
+C:\Documents and Settings\sumits.NTPL-DC\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\bin\Debug\nControls.pdb
+C:\Documents and Settings\sumits.NTPL-DC\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sumits.NTPL-DC\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.deCheckBox.resources
+C:\Documents and Settings\sumits.NTPL-DC\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.deComboBox.resources
+C:\Documents and Settings\sumits.NTPL-DC\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.deDateBox.resources
+C:\Documents and Settings\sumits.NTPL-DC\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.deRadioButton.resources
+C:\Documents and Settings\sumits.NTPL-DC\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.deTextBox.resources
+C:\Documents and Settings\sumits.NTPL-DC\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.rptViewer.resources
+C:\Documents and Settings\sumits.NTPL-DC\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sumits.NTPL-DC\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\sumits.NTPL-DC\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sumits.NTPL-DC\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.dll
+C:\Documents and Settings\sumits.NTPL-DC\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.pdb
+C:\Users\SUMIT\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\bin\Debug\nControls.dll
+C:\Users\SUMIT\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\bin\Debug\nControls.pdb
+C:\Users\SUMIT\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SUMIT\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.deCheckBox.resources
+C:\Users\SUMIT\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.deComboBox.resources
+C:\Users\SUMIT\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.deDateBox.resources
+C:\Users\SUMIT\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.deRadioButton.resources
+C:\Users\SUMIT\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.deTextBox.resources
+C:\Users\SUMIT\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.rptViewer.resources
+C:\Users\SUMIT\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\SUMIT\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\SUMIT\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\SUMIT\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.dll
+C:\Users\SUMIT\Desktop\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.pdb
+D:\final Morut\sumit_16_07\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\bin\Debug\nControls.dll
+D:\final Morut\sumit_16_07\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\bin\Debug\nControls.pdb
+D:\final Morut\sumit_16_07\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\ResolveAssemblyReference.cache
+D:\final Morut\sumit_16_07\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.deCheckBox.resources
+D:\final Morut\sumit_16_07\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.deComboBox.resources
+D:\final Morut\sumit_16_07\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.deDateBox.resources
+D:\final Morut\sumit_16_07\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.deRadioButton.resources
+D:\final Morut\sumit_16_07\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.deTextBox.resources
+D:\final Morut\sumit_16_07\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.rptViewer.resources
+D:\final Morut\sumit_16_07\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.dll
+D:\final Morut\sumit_16_07\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\nControls.pdb
+D:\final Morut\sumit_16_07\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\GenerateResource.read.1.tlog
+D:\final Morut\sumit_16_07\MORUT\Active_Morut\1.5_latest\Morut_1.5.0\nControls\obj\Debug\GenerateResource.write.1.tlog
